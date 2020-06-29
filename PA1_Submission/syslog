@@ -1,0 +1,1570 @@
+Feb  2 02:07:07 nickYubuntu rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="451" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Feb  2 02:07:44 nickYubuntu anacron[27183]: Job `cron.daily' terminated
+Feb  2 02:07:44 nickYubuntu anacron[27183]: Normal exit (1 job run)
+Feb  2 02:17:02 nickYubuntu CRON[4078]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 02:20:19 nickYubuntu systemd[1]: Starting Message of the Day...
+Feb  2 02:20:19 nickYubuntu systemd[1]: Started Message of the Day.
+Feb  2 03:02:29 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 03:02:29 nickYubuntu anacron[10785]: Anacron 2.3 started on 2020-02-02
+Feb  2 03:02:29 nickYubuntu anacron[10785]: Normal exit (0 jobs run)
+Feb  2 03:09:31 nickYubuntu org.gnome.Shell.desktop[859]: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000081 (syscall_64)
+Feb  2 03:09:38 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:09:43 nickYubuntu org.gnome.Shell.desktop[859]: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000081 (syscall_64)
+Feb  2 03:09:44 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:09:50 nickYubuntu xdg-desktop-por[1370]: Error getting permissions: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for inhibit
+Feb  2 03:09:50 nickYubuntu xdg-desktop-por[1370]: Backend call failed: GDBus.Error:org.freedesktop.portal.Error.Failed: Inhibiting other than idle not supported
+Feb  2 03:09:54 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:10:15 nickYubuntu xdg-desktop-por[1370]: Error getting permissions: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for inhibit
+Feb  2 03:10:15 nickYubuntu xdg-desktop-por[1370]: Backend call failed: GDBus.Error:org.freedesktop.portal.Error.Failed: Inhibiting other than idle not supported
+Feb  2 03:10:27 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:10:29 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:10:34 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:10:42 nickYubuntu org.gnome.Shell.desktop[859]: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000081 (store_add.)
+Feb  2 03:10:43 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:10:46 nickYubuntu xdg-desktop-por[1370]: Error getting permissions: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for inhibit
+Feb  2 03:10:46 nickYubuntu xdg-desktop-por[1370]: Backend call failed: GDBus.Error:org.freedesktop.portal.Error.Failed: Inhibiting other than idle not supported
+Feb  2 03:10:48 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:10:56 nickYubuntu gvfsd-recent[1597]: Unable to load /home/nick/.local/share/recently-used.xbel: Failed to open file “/home/nick/.local/share/recently-used.xbel”: Permission denied
+Feb  2 03:17:02 nickYubuntu CRON[15888]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 04:17:01 nickYubuntu CRON[17151]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 04:41:10 nickYubuntu snapd[482]: 2020/02/02 04:41:10 Unsolicited response received on idle HTTP channel starting with "HTTP/1.0 408 Request Time-out\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<html><body><h1>408 Request Time-out</h1>\nYour browser didn't send a complete request in time.\n</body></html>\n"; err=<nil>
+Feb  2 05:03:00 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 05:03:00 nickYubuntu anacron[10934]: Anacron 2.3 started on 2020-02-02
+Feb  2 05:03:00 nickYubuntu anacron[10934]: Normal exit (0 jobs run)
+Feb  2 05:17:01 nickYubuntu CRON[18502]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 05:42:28 nickYubuntu dhclient[583]: DHCPREQUEST of 10.0.2.15 on enp0s3 to 10.0.2.2 port 67 (xid=0x5a3aea4)
+Feb  2 05:42:29 nickYubuntu NetworkManager[453]: <info>  [1580640149.0731] dhcp4 (enp0s3):   address 10.0.2.15
+Feb  2 05:42:29 nickYubuntu dhclient[583]: DHCPACK of 10.0.2.15 from 10.0.2.2
+Feb  2 05:42:29 nickYubuntu NetworkManager[453]: <info>  [1580640149.0732] dhcp4 (enp0s3):   plen 24 (255.255.255.0)
+Feb  2 05:42:29 nickYubuntu dbus-daemon[342]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=453 comm="/usr/sbin/NetworkManager --no-daemon " label="kernel")
+Feb  2 05:42:29 nickYubuntu NetworkManager[453]: <info>  [1580640149.0732] dhcp4 (enp0s3):   gateway 10.0.2.2
+Feb  2 05:42:29 nickYubuntu dbus-daemon[342]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Feb  2 05:42:29 nickYubuntu NetworkManager[453]: <info>  [1580640149.0732] dhcp4 (enp0s3):   lease time 86400
+Feb  2 05:42:29 nickYubuntu nm-dispatcher: req:1 'dhcp4-change' [enp0s3]: new request (1 scripts)
+Feb  2 05:42:29 nickYubuntu NetworkManager[453]: <info>  [1580640149.0732] dhcp4 (enp0s3):   nameserver '192.168.1.1'
+Feb  2 05:42:29 nickYubuntu nm-dispatcher: req:1 'dhcp4-change' [enp0s3]: start running ordered scripts...
+Feb  2 05:42:29 nickYubuntu NetworkManager[453]: <info>  [1580640149.0733] dhcp4 (enp0s3): state changed bound -> bound
+Feb  2 05:42:29 nickYubuntu dhclient[583]: bound to 10.0.2.15 -- renewal in 42981 seconds.
+Feb  2 05:42:29 nickYubuntu systemd[1]: Starting Network Manager Script Dispatcher Service...
+Feb  2 05:42:29 nickYubuntu systemd[1]: Started Network Manager Script Dispatcher Service.
+Feb  2 05:46:01 nickYubuntu CRON[3023]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Feb  2 06:04:19 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 06:04:19 nickYubuntu anacron[12650]: Anacron 2.3 started on 2020-02-02
+Feb  2 06:04:19 nickYubuntu anacron[12650]: Normal exit (0 jobs run)
+Feb  2 06:17:01 nickYubuntu CRON[19936]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 06:25:01 nickYubuntu CRON[25275]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Feb  2 06:27:00 nickYubuntu systemd[1]: Starting Daily apt upgrade and clean activities...
+Feb  2 06:27:30 nickYubuntu systemd[1]: Started Daily apt upgrade and clean activities.
+Feb  2 06:47:01 nickYubuntu CRON[7657]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly ))
+Feb  2 06:47:56 nickYubuntu PackageKit: get-updates transaction /88_dcaabede from uid 1000 finished with success after 2637ms
+Feb  2 07:02:29 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 07:02:29 nickYubuntu anacron[16449]: Anacron 2.3 started on 2020-02-02
+Feb  2 07:02:29 nickYubuntu anacron[16449]: Normal exit (0 jobs run)
+Feb  2 07:17:01 nickYubuntu CRON[24661]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 07:30:01 nickYubuntu CRON[32329]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Feb  2 08:04:00 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 08:04:00 nickYubuntu anacron[17250]: Anacron 2.3 started on 2020-02-02
+Feb  2 08:04:00 nickYubuntu anacron[17250]: Normal exit (0 jobs run)
+Feb  2 08:17:02 nickYubuntu CRON[23090]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 09:05:00 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 09:05:05 nickYubuntu anacron[16641]: Anacron 2.3 started on 2020-02-02
+Feb  2 09:05:05 nickYubuntu anacron[16641]: Normal exit (0 jobs run)
+Feb  2 09:17:02 nickYubuntu CRON[18472]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 10:01:00 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 10:01:00 nickYubuntu anacron[18490]: Anacron 2.3 started on 2020-02-02
+Feb  2 10:01:00 nickYubuntu anacron[18490]: Normal exit (0 jobs run)
+Feb  2 10:17:01 nickYubuntu CRON[18501]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 10:55:07 nickYubuntu snapd[482]: storehelpers.go:436: cannot refresh: snap has no updates available: "core", "core18", "gnome-3-28-1804", "gnome-calculator", "gnome-characters", "gnome-logs", "gnome-system-monitor", "gtk-common-themes"
+Feb  2 10:55:07 nickYubuntu snapd[482]: autorefresh.go:397: auto-refresh: all snaps are up-to-date
+Feb  2 11:01:19 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 11:01:19 nickYubuntu anacron[18522]: Anacron 2.3 started on 2020-02-02
+Feb  2 11:01:19 nickYubuntu anacron[18522]: Normal exit (0 jobs run)
+Feb  2 11:17:01 nickYubuntu CRON[18531]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 12:04:55 nickYubuntu systemd[1]: Started Run anacron jobs.
+Feb  2 12:04:55 nickYubuntu anacron[18553]: Anacron 2.3 started on 2020-02-02
+Feb  2 12:04:55 nickYubuntu anacron[18553]: Normal exit (0 jobs run)
+Feb  2 12:17:01 nickYubuntu CRON[18560]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 13:10:48 nickYubuntu kernel: [62789.083808] SGI XFS with ACLs, security attributes, realtime, no debug enabled
+Feb  2 13:10:48 nickYubuntu kernel: [62789.130587] JFS: nTxBlock = 8192, nTxLock = 65536
+Feb  2 13:10:49 nickYubuntu kernel: [62789.546290] ntfs: driver 2.1.32 [Flags: R/O MODULE].
+Feb  2 13:10:50 nickYubuntu kernel: [62790.353110] QNX4 filesystem 0.2.3 registered.
+Feb  2 13:10:50 nickYubuntu kernel: [62790.593812] raid6: sse2x1   gen()  6475 MB/s
+Feb  2 13:10:50 nickYubuntu kernel: [62790.663947] raid6: sse2x1   xor()  5579 MB/s
+Feb  2 13:10:50 nickYubuntu kernel: [62790.733311] raid6: sse2x2   gen()  8141 MB/s
+Feb  2 13:10:50 nickYubuntu kernel: [62790.804084] raid6: sse2x2   xor()  6818 MB/s
+Feb  2 13:10:50 nickYubuntu kernel: [62790.868900] raid6: sse2x4   gen()  8074 MB/s
+Feb  2 13:10:50 nickYubuntu kernel: [62790.946110] raid6: sse2x4   xor()  7748 MB/s
+Feb  2 13:10:50 nickYubuntu kernel: [62790.946112] raid6: using algorithm sse2x2 gen() 8141 MB/s
+Feb  2 13:10:50 nickYubuntu kernel: [62790.946112] raid6: .... xor() 6818 MB/s, rmw enabled
+Feb  2 13:10:50 nickYubuntu kernel: [62790.946113] raid6: using ssse3x2 recovery algorithm
+Feb  2 13:10:50 nickYubuntu kernel: [62790.957946] xor: measuring software checksum speed
+Feb  2 13:10:50 nickYubuntu kernel: [62790.998534]    prefetch64-sse: 15699.000 MB/sec
+Feb  2 13:10:50 nickYubuntu kernel: [62791.039543]    generic_sse: 18435.000 MB/sec
+Feb  2 13:10:50 nickYubuntu kernel: [62791.039546] xor: using function: generic_sse (18435.000 MB/sec)
+Feb  2 13:10:51 nickYubuntu kernel: [62791.230062] Btrfs loaded, crc32c=crc32c-intel
+Feb  2 13:10:59 nickYubuntu systemd[1]: Stopping ACPI event daemon...
+Feb  2 13:10:59 nickYubuntu kernel: [62800.041832] rfkill: input handler enabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Linux version 4.17.0-rc2nIckY (root@nickYubuntu) (gcc version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1)) #9 SMP Sun Feb 2 08:43:28 EST 2020
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.17.0-rc2nIckY root=UUID=3b9dbdf9-e505-48a0-9479-ae5d5eb87196 ro
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] KERNEL supported cpus:
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   Intel GenuineIntel
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   AMD AuthenticAMD
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   Centaur CentaurHauls
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] x86/fpu: x87 FPU will use FXSAVE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x00000000dffeffff] usable
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BIOS-e820: [mem 0x0000000100000000-0x000000014fffffff] usable
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] NX (Execute Disable) protection: active
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] SMBIOS 2.5 present.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Hypervisor detected: KVM
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] e820: last_pfn = 0x150000 max_arch_pfn = 0x400000000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] MTRR default type: uncachable
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] MTRR variable ranges disabled:
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] MTRR: Disabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] x86/PAT: MTRRs disabled, skipping PAT initialization too.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] CPU MTRRs all blank - virtualized system.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] e820: last_pfn = 0xdfff0 max_arch_pfn = 0x400000000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Scanning 1 areas for low memory corruption
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Base memory trampoline at [        (ptrval)] 99000 size 24576
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BRK [0x95b47000, 0x95b47fff] PGTABLE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BRK [0x95b48000, 0x95b48fff] PGTABLE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BRK [0x95b49000, 0x95b49fff] PGTABLE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BRK [0x95b4a000, 0x95b4afff] PGTABLE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BRK [0x95b4b000, 0x95b4bfff] PGTABLE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] BRK [0x95b4c000, 0x95b4cfff] PGTABLE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] RAMDISK: [mem 0x0aea9000-0x2174bfff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: DSDT 0x00000000DFFF0470 0022EA (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: FACS 0x00000000DFFF0200 000040
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: FACS 0x00000000DFFF0200 000040
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] No NUMA configuration found
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Faking a node at [mem 0x0000000000000000-0x000000014fffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] NODE_DATA(0) allocated [mem 0x14ffd1000-0x14fffbfff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] kvm-clock: cpu 0, msr 1:4ff50001, primary cpu clock
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] kvm-clock: using sched offset of 87101435026333 cycles
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Zone ranges:
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   Normal   [mem 0x0000000100000000-0x000000014fffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   Device   empty
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Movable zone start for each node
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Early memory node ranges
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x00000000dffeffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   node   0: [mem 0x0000000100000000-0x000000014fffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000014fffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] On node 0 totalpages: 1245070
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   DMA zone: 64 pages used for memmap
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   DMA zone: 21 pages reserved
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   DMA zone: 3998 pages, LIFO batch:0
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   DMA32 zone: 14272 pages used for memmap
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   DMA32 zone: 913392 pages, LIFO batch:31
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   Normal zone: 5120 pages used for memmap
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000]   Normal zone: 327680 pages, LIFO batch:31
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Reserved but unavailable: 98 pages
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x4008
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] IOAPIC[0]: apic_id 1, version 32, address 0xfec00000, GSI 0-23
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: IRQ0 used by override.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ACPI: IRQ9 used by override.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000effff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0xdfff0000-0xdfffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0xe0000000-0xfebfffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec00000-0xfec00fff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec01000-0xfedfffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfee00000-0xfee00fff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfee01000-0xfffbffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfffc0000-0xffffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] e820: [mem 0xe0000000-0xfebfffff] available for PCI devices
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Booting paravirtualized kernel on KVM
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] random: get_random_bytes called from start_kernel+0x99/0x55a with crng_init=0
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] setup_percpu: NR_CPUS:8192 nr_cpumask_bits:1 nr_cpu_ids:1 nr_node_ids:1
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] percpu: Embedded 46 pages/cpu @        (ptrval) s151552 r8192 d28672 u2097152
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] pcpu-alloc: s151552 r8192 d28672 u2097152 alloc=1*2097152
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] pcpu-alloc: [0] 0 
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] PV qspinlock hash table entries: 256 (order: 0, 4096 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Built 1 zonelists, mobility grouping on.  Total pages: 1225593
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Policy zone: Normal
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.17.0-rc2nIckY root=UUID=3b9dbdf9-e505-48a0-9479-ae5d5eb87196 ro
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Memory: 4438196K/4980280K available (12300K kernel code, 2512K rwdata, 4284K rodata, 2428K init, 2384K bss, 542084K reserved, 0K cma-reserved)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] Kernel/User page tables isolation: enabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.000000] ftrace: allocating 40210 entries in 158 pages
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] Hierarchical RCU implementation.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] 	RCU restricting CPUs from NR_CPUS=8192 to nr_cpu_ids=1.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] 	Tasks RCU enabled.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] RCU: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=1
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] NR_IRQS: 524544, nr_irqs: 256, preallocated irqs: 16
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] Console: colour VGA+ 80x25
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] console [tty0] enabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] ACPI: Core revision 20180313
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] APIC: Switch to symmetric I/O mode setup
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] x2apic enabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] Switched APIC routing to physical x2apic.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] tsc: Detected 2660.154 MHz processor
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] clocksource: tsc-early: mask: 0xffffffffffffffff max_cycles: 0x2658355f525, max_idle_ns: 440795271458 ns
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] Calibrating delay loop (skipped) preset value.. 5320.30 BogoMIPS (lpj=10640616)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] pid_max: default: 32768 minimum: 301
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] Security Framework initialized
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] Yama: becoming mindful.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] SELinux:  Initializing.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] SELinux:  Starting in permissive mode
+Feb  2 13:12:23 nickYubuntu kernel: [    0.004000] AppArmor: AppArmor disabled by boot time parameter
+Feb  2 13:12:23 nickYubuntu kernel: [    0.009427] Dentry cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.012283] Inode-cache hash table entries: 524288 (order: 10, 4194304 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.012790] Mount-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.013121] Mountpoint-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.013801] CPU: Physical Processor ID: 0
+Feb  2 13:12:23 nickYubuntu kernel: [    0.014152] mce: CPU supports 0 MCE banks
+Feb  2 13:12:23 nickYubuntu kernel: [    0.014546] process: using mwait in idle threads
+Feb  2 13:12:23 nickYubuntu kernel: [    0.014772] Last level iTLB entries: 4KB 512, 2MB 7, 4MB 7
+Feb  2 13:12:23 nickYubuntu kernel: [    0.015006] Last level dTLB entries: 4KB 512, 2MB 32, 4MB 32, 1GB 0
+Feb  2 13:12:23 nickYubuntu kernel: [    0.015263] Spectre V2 : Mitigation: Full generic retpoline
+Feb  2 13:12:23 nickYubuntu kernel: [    0.029073] Freeing SMP alternatives memory: 36K
+Feb  2 13:12:23 nickYubuntu kernel: [    0.036000] APIC calibration not consistent with PM-Timer: 103ms instead of 100ms
+Feb  2 13:12:23 nickYubuntu kernel: [    0.036000] APIC delta adjusted to PM-Timer: 6175904 (6365174)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.036115] smpboot: CPU0: Intel(R) Core(TM) i7 CPU       M 620  @ 2.67GHz (family: 0x6, model: 0x25, stepping: 0x5)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.036691] Performance Events: unsupported p6 CPU model 37 no PMU driver, software events only.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.037125] Hierarchical SRCU implementation.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.037880] NMI watchdog: Perf event create on CPU 0 failed with -2
+Feb  2 13:12:23 nickYubuntu kernel: [    0.038138] NMI watchdog: Perf NMI watchdog permanently disabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.038430] smp: Bringing up secondary CPUs ...
+Feb  2 13:12:23 nickYubuntu kernel: [    0.038643] smp: Brought up 1 node, 1 CPU
+Feb  2 13:12:23 nickYubuntu kernel: [    0.038836] smpboot: Max logical packages: 1
+Feb  2 13:12:23 nickYubuntu kernel: [    0.039035] smpboot: Total of 1 processors activated (5320.30 BogoMIPS)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.040134] devtmpfs: initialized
+Feb  2 13:12:23 nickYubuntu kernel: [    0.040615] x86/mm: Memory block size: 128MB
+Feb  2 13:12:23 nickYubuntu kernel: [    0.041197] evm: security.selinux
+Feb  2 13:12:23 nickYubuntu kernel: [    0.041380] evm: security.SMACK64
+Feb  2 13:12:23 nickYubuntu kernel: [    0.041557] evm: security.SMACK64EXEC
+Feb  2 13:12:23 nickYubuntu kernel: [    0.041742] evm: security.SMACK64TRANSMUTE
+Feb  2 13:12:23 nickYubuntu kernel: [    0.041940] evm: security.SMACK64MMAP
+Feb  2 13:12:23 nickYubuntu kernel: [    0.042126] evm: security.apparmor
+Feb  2 13:12:23 nickYubuntu kernel: [    0.042304] evm: security.ima
+Feb  2 13:12:23 nickYubuntu kernel: [    0.042472] evm: security.capability
+Feb  2 13:12:23 nickYubuntu kernel: [    0.042775] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Feb  2 13:12:23 nickYubuntu kernel: [    0.043172] futex hash table entries: 256 (order: 2, 16384 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.043465] pinctrl core: initialized pinctrl subsystem
+Feb  2 13:12:23 nickYubuntu kernel: [    0.044022] RTC time: 18:12:00, date: 02/02/20
+Feb  2 13:12:23 nickYubuntu kernel: [    0.044353] NET: Registered protocol family 16
+Feb  2 13:12:23 nickYubuntu kernel: [    0.044632] audit: initializing netlink subsys (disabled)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.044993] cpuidle: using governor ladder
+Feb  2 13:12:23 nickYubuntu kernel: [    0.045226] cpuidle: using governor menu
+Feb  2 13:12:23 nickYubuntu kernel: [    0.045449] ACPI: bus type PCI registered
+Feb  2 13:12:23 nickYubuntu kernel: [    0.046437] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Feb  2 13:12:23 nickYubuntu kernel: [    0.047670] PCI: Using configuration type 1 for base access
+Feb  2 13:12:23 nickYubuntu kernel: [    0.048000] audit: type=2000 audit(1580754221.482:1): state=initialized audit_enabled=0 res=1
+Feb  2 13:12:23 nickYubuntu kernel: [    0.050089] HugeTLB registered 2.00 MiB page size, pre-allocated 0 pages
+Feb  2 13:12:23 nickYubuntu kernel: [    0.050708] ACPI: Added _OSI(Module Device)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.050938] ACPI: Added _OSI(Processor Device)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.051161] ACPI: Added _OSI(3.0 _SCP Extensions)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.051392] ACPI: Added _OSI(Processor Aggregator Device)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.051643] ACPI: Added _OSI(Linux-Dell-Video)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.054891] ACPI: 2 ACPI AML tables successfully acquired and loaded
+Feb  2 13:12:23 nickYubuntu kernel: [    0.060898] ACPI: Interpreter enabled
+Feb  2 13:12:23 nickYubuntu kernel: [    0.061152] ACPI: (supports S0 S5)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.061378] ACPI: Using IOAPIC for interrupt routing
+Feb  2 13:12:23 nickYubuntu kernel: [    0.061954] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Feb  2 13:12:23 nickYubuntu kernel: [    0.062546] ACPI: Enabled 2 GPEs in block 00 to 07
+Feb  2 13:12:23 nickYubuntu kernel: [    0.070119] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Feb  2 13:12:23 nickYubuntu kernel: [    0.070552] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.071904] acpi PNP0A03:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.072000] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.073019] PCI host bridge to bus 0000:00
+Feb  2 13:12:23 nickYubuntu kernel: [    0.073353] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.073794] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.074091] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.074450] pci_bus 0000:00: root bus resource [mem 0xe0000000-0xfdffffff window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.076013] pci_bus 0000:00: root bus resource [bus 00-ff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.076341] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.077804] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Feb  2 13:12:23 nickYubuntu kernel: [    0.080129] pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+Feb  2 13:12:23 nickYubuntu kernel: [    0.081131] pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.081546] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.082395] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.082659] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.082940] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.083908] pci 0000:00:02.0: [15ad:0405] type 00 class 0x030000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.088414] pci 0000:00:02.0: reg 0x10: [io  0xd010-0xd01f]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.092475] pci 0000:00:02.0: reg 0x14: [mem 0xf0000000-0xf0ffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.096471] pci 0000:00:02.0: reg 0x18: [mem 0xf1000000-0xf11fffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.120917] pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.124255] pci 0000:00:03.0: reg 0x10: [mem 0xf1200000-0xf121ffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.132251] pci 0000:00:03.0: reg 0x18: [io  0xd020-0xd027]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.153251] pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.156231] pci 0000:00:04.0: reg 0x10: [io  0xd040-0xd05f]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.160230] pci 0000:00:04.0: reg 0x14: [mem 0xf1400000-0xf17fffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.164229] pci 0000:00:04.0: reg 0x18: [mem 0xf1800000-0xf1803fff pref]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.188075] pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+Feb  2 13:12:23 nickYubuntu kernel: [    0.188362] pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.188523] pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.190023] pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+Feb  2 13:12:23 nickYubuntu kernel: [    0.192232] pci 0000:00:06.0: reg 0x10: [mem 0xf1804000-0xf1804fff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.220970] pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+Feb  2 13:12:23 nickYubuntu kernel: [    0.221718] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+Feb  2 13:12:23 nickYubuntu kernel: [    0.222093] pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+Feb  2 13:12:23 nickYubuntu kernel: [    0.226763] pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+Feb  2 13:12:23 nickYubuntu kernel: [    0.228326] pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.232292] pci 0000:00:0d.0: reg 0x14: [io  0xd248-0xd24b]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.236292] pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.240291] pci 0000:00:0d.0: reg 0x1c: [io  0xd258-0xd25b]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.244292] pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.248292] pci 0000:00:0d.0: reg 0x24: [mem 0xf1806000-0xf1807fff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.265781] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.266476] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.268161] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.268594] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.269278] pci 0000:00:02.0: vgaarb: setting as boot VGA device
+Feb  2 13:12:23 nickYubuntu kernel: [    0.269531] pci 0000:00:02.0: vgaarb: VGA device added: decodes=io+mem,owns=io+mem,locks=none
+Feb  2 13:12:23 nickYubuntu kernel: [    0.269886] pci 0000:00:02.0: vgaarb: bridge control possible
+Feb  2 13:12:23 nickYubuntu kernel: [    0.270125] vgaarb: loaded
+Feb  2 13:12:23 nickYubuntu kernel: [    0.270531] SCSI subsystem initialized
+Feb  2 13:12:23 nickYubuntu kernel: [    0.270809] libata version 3.00 loaded.
+Feb  2 13:12:23 nickYubuntu kernel: [    0.270839] ACPI: bus type USB registered
+Feb  2 13:12:23 nickYubuntu kernel: [    0.271055] usbcore: registered new interface driver usbfs
+Feb  2 13:12:23 nickYubuntu kernel: [    0.271298] usbcore: registered new interface driver hub
+Feb  2 13:12:23 nickYubuntu kernel: [    0.271538] usbcore: registered new device driver usb
+Feb  2 13:12:23 nickYubuntu kernel: [    0.271784] pps_core: LinuxPPS API ver. 1 registered
+Feb  2 13:12:23 nickYubuntu kernel: [    0.272000] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Feb  2 13:12:23 nickYubuntu kernel: [    0.272000] PTP clock support registered
+Feb  2 13:12:23 nickYubuntu kernel: [    0.272000] EDAC MC: Ver: 3.0.0
+Feb  2 13:12:23 nickYubuntu kernel: [    0.272454] PCI: Using ACPI for IRQ routing
+Feb  2 13:12:23 nickYubuntu kernel: [    0.272658] PCI: pci_cache_line_size set to 64 bytes
+Feb  2 13:12:23 nickYubuntu kernel: [    0.273001] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.273006] e820: reserve RAM buffer [mem 0xdfff0000-0xdfffffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.273138] NetLabel: Initializing
+Feb  2 13:12:23 nickYubuntu kernel: [    0.273322] NetLabel:  domain hash size = 128
+Feb  2 13:12:23 nickYubuntu kernel: [    0.273523] NetLabel:  protocols = UNLABELED CIPSOv4 CALIPSO
+Feb  2 13:12:23 nickYubuntu kernel: [    0.273775] NetLabel:  unlabeled traffic allowed by default
+Feb  2 13:12:23 nickYubuntu kernel: [    0.274968] clocksource: Switched to clocksource kvm-clock
+Feb  2 13:12:23 nickYubuntu kernel: [    0.285153] VFS: Disk quotas dquot_6.6.0
+Feb  2 13:12:23 nickYubuntu kernel: [    0.286560] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.287067] pnp: PnP ACPI init
+Feb  2 13:12:23 nickYubuntu kernel: [    0.287384] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.287554] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.289710] pnp: PnP ACPI: found 2 devices
+Feb  2 13:12:23 nickYubuntu kernel: [    0.296724] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Feb  2 13:12:23 nickYubuntu kernel: [    0.297577] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.297580] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.297583] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.297585] pci_bus 0000:00: resource 7 [mem 0xe0000000-0xfdffffff window]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.297684] NET: Registered protocol family 2
+Feb  2 13:12:23 nickYubuntu kernel: [    0.298426] tcp_listen_portaddr_hash hash table entries: 4096 (order: 4, 65536 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.299105] TCP established hash table entries: 65536 (order: 7, 524288 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.300287] TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.300751] TCP: Hash tables configured (established 65536 bind 65536)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.301111] UDP hash table entries: 4096 (order: 5, 131072 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.301440] UDP-Lite hash table entries: 4096 (order: 5, 131072 bytes)
+Feb  2 13:12:23 nickYubuntu kernel: [    0.302243] NET: Registered protocol family 1
+Feb  2 13:12:23 nickYubuntu kernel: [    0.302493] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Feb  2 13:12:23 nickYubuntu kernel: [    0.302815] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Feb  2 13:12:23 nickYubuntu kernel: [    0.303191] pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+Feb  2 13:12:23 nickYubuntu kernel: [    0.306271] PCI: CLS 0 bytes, default 64
+Feb  2 13:12:23 nickYubuntu kernel: [    0.306359] Unpacking initramfs...
+Feb  2 13:12:23 nickYubuntu kernel: [    6.134336] Freeing initrd memory: 369292K
+Feb  2 13:12:23 nickYubuntu kernel: [    6.135980] PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.136371] software IO TLB [mem 0xdbff0000-0xdfff0000] (64MB) mapped at [        (ptrval)-        (ptrval)]
+Feb  2 13:12:23 nickYubuntu kernel: [    6.137181] platform rtc_cmos: registered platform RTC device (no PNP device found)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.137705] Scanning for low memory corruption every 60 seconds
+Feb  2 13:12:23 nickYubuntu kernel: [    6.139617] Initialise system trusted keyrings
+Feb  2 13:12:23 nickYubuntu kernel: [    6.139957] Key type blacklist registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.140348] workingset: timestamp_bits=36 max_order=21 bucket_order=0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.142553] zbud: loaded
+Feb  2 13:12:23 nickYubuntu kernel: [    6.143201] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Feb  2 13:12:23 nickYubuntu kernel: [    6.143751] fuse init (API version 7.26)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.144033] pstore: using deflate compression
+Feb  2 13:12:23 nickYubuntu kernel: [    6.144617] SELinux:  Registering netfilter hooks
+Feb  2 13:12:23 nickYubuntu kernel: [    6.146326] Key type asymmetric registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.146583] Asymmetric key parser 'x509' registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.146901] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 244)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.147335] io scheduler noop registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.147547] io scheduler deadline registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.147817] io scheduler cfq registered (default)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.148054] io scheduler mq-deadline registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.148801] shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+Feb  2 13:12:23 nickYubuntu kernel: [    6.149606] ACPI: AC Adapter [AC] (off-line)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.149870] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.150218] ACPI: Power Button [PWRF]
+Feb  2 13:12:23 nickYubuntu kernel: [    6.150513] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+Feb  2 13:12:23 nickYubuntu kernel: [    6.150845] ACPI: Sleep Button [SLPF]
+Feb  2 13:12:23 nickYubuntu kernel: [    6.152727] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Feb  2 13:12:23 nickYubuntu kernel: [    6.153307] ACPI: Battery Slot [BAT0] (battery present)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.154975] Linux agpgart interface v0.103
+Feb  2 13:12:23 nickYubuntu kernel: [    6.157505] loop: module loaded
+Feb  2 13:12:23 nickYubuntu kernel: [    6.158092] ata_piix 0000:00:01.1: version 2.13
+Feb  2 13:12:23 nickYubuntu kernel: [    6.158536] scsi host0: ata_piix
+Feb  2 13:12:23 nickYubuntu kernel: [    6.158817] scsi host1: ata_piix
+Feb  2 13:12:23 nickYubuntu kernel: [    6.159026] ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+Feb  2 13:12:23 nickYubuntu kernel: [    6.159298] ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+Feb  2 13:12:23 nickYubuntu kernel: [    6.159642] libphy: Fixed MDIO Bus: probed
+Feb  2 13:12:23 nickYubuntu kernel: [    6.159844] tun: Universal TUN/TAP device driver, 1.6
+Feb  2 13:12:23 nickYubuntu kernel: [    6.160578] PPP generic driver version 2.4.2
+Feb  2 13:12:23 nickYubuntu kernel: [    6.160924] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.161221] ehci-pci: EHCI PCI platform driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.161462] ehci-platform: EHCI generic platform driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.161718] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.162514] ohci-pci: OHCI PCI platform driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.163790] ohci-pci 0000:00:06.0: OHCI PCI host controller
+Feb  2 13:12:23 nickYubuntu kernel: [    6.164065] ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 1
+Feb  2 13:12:23 nickYubuntu kernel: [    6.165524] ohci-pci 0000:00:06.0: irq 22, io mem 0xf1804000
+Feb  2 13:12:23 nickYubuntu kernel: [    6.225264] usb usb1: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 4.17
+Feb  2 13:12:23 nickYubuntu kernel: [    6.226077] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Feb  2 13:12:23 nickYubuntu kernel: [    6.226798] usb usb1: Product: OHCI PCI host controller
+Feb  2 13:12:23 nickYubuntu kernel: [    6.227249] usb usb1: Manufacturer: Linux 4.17.0-rc2nIckY ohci_hcd
+Feb  2 13:12:23 nickYubuntu kernel: [    6.227696] usb usb1: SerialNumber: 0000:00:06.0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.228287] hub 1-0:1.0: USB hub found
+Feb  2 13:12:23 nickYubuntu kernel: [    6.228452] hub 1-0:1.0: 12 ports detected
+Feb  2 13:12:23 nickYubuntu kernel: [    6.230922] ohci-platform: OHCI generic platform driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.231374] uhci_hcd: USB Universal Host Controller Interface driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.231928] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+Feb  2 13:12:23 nickYubuntu kernel: [    6.234025] serio: i8042 KBD port at 0x60,0x64 irq 1
+Feb  2 13:12:23 nickYubuntu kernel: [    6.234362] serio: i8042 AUX port at 0x60,0x64 irq 12
+Feb  2 13:12:23 nickYubuntu kernel: [    6.234919] mousedev: PS/2 mouse device common for all mice
+Feb  2 13:12:23 nickYubuntu kernel: [    6.236034] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+Feb  2 13:12:23 nickYubuntu kernel: [    6.237849] rtc_cmos rtc_cmos: registered as rtc0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.238160] rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+Feb  2 13:12:23 nickYubuntu kernel: [    6.238498] i2c /dev entries driver
+Feb  2 13:12:23 nickYubuntu kernel: [    6.238846] device-mapper: uevent: version 1.0.3
+Feb  2 13:12:23 nickYubuntu kernel: [    6.239223] device-mapper: ioctl: 4.39.0-ioctl (2018-04-03) initialised: dm-devel@redhat.com
+Feb  2 13:12:23 nickYubuntu kernel: [    6.239714] ledtrig-cpu: registered to indicate activity on CPUs
+Feb  2 13:12:23 nickYubuntu kernel: [    6.240569] NET: Registered protocol family 10
+Feb  2 13:12:23 nickYubuntu kernel: [    6.245112] Segment Routing with IPv6
+Feb  2 13:12:23 nickYubuntu kernel: [    6.245354] NET: Registered protocol family 17
+Feb  2 13:12:23 nickYubuntu kernel: [    6.245624] Key type dns_resolver registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.246025] RAS: Correctable Errors collector initialized.
+Feb  2 13:12:23 nickYubuntu kernel: [    6.246356] sched_clock: Marking stable (6244731183, 0)->(6540454710, -295723527)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.246862] registered taskstats version 1
+Feb  2 13:12:23 nickYubuntu kernel: [    6.247087] Loading compiled-in X.509 certificates
+Feb  2 13:12:23 nickYubuntu kernel: [    6.249929] Loaded X.509 cert 'Build time autogenerated kernel key: a1251bfaec79f12d2eff6c7a1259ae3b9416333e'
+Feb  2 13:12:23 nickYubuntu kernel: [    6.250358] zswap: loaded using pool lzo/zbud
+Feb  2 13:12:23 nickYubuntu kernel: [    6.254091] Key type big_key registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.254292] Key type trusted registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.257015] Key type encrypted registered
+Feb  2 13:12:23 nickYubuntu kernel: [    6.257279] ima: No TPM chip found, activating TPM-bypass! (rc=-19)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.257865] ima: Allocated hash algorithm: sha1
+Feb  2 13:12:23 nickYubuntu kernel: [    6.258266] evm: HMAC attrs: 0x1
+Feb  2 13:12:23 nickYubuntu kernel: [    6.259130]   Magic number: 8:202:240
+Feb  2 13:12:23 nickYubuntu kernel: [    6.259583] rtc_cmos rtc_cmos: setting system clock to 2020-02-02 18:12:06 UTC (1580667126)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.324872] ata2.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+Feb  2 13:12:23 nickYubuntu kernel: [    6.326289] ata2.00: configured for UDMA/33
+Feb  2 13:12:23 nickYubuntu kernel: [    6.327420] scsi 1:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+Feb  2 13:12:23 nickYubuntu kernel: [    6.352835] sr 1:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+Feb  2 13:12:23 nickYubuntu kernel: [    6.353159] cdrom: Uniform CD-ROM driver Revision: 3.20
+Feb  2 13:12:23 nickYubuntu kernel: [    6.353721] sr 1:0:0:0: Attached scsi CD-ROM sr0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.353893] sr 1:0:0:0: Attached scsi generic sg0 type 5
+Feb  2 13:12:23 nickYubuntu kernel: [    6.356155] Freeing unused kernel memory: 2428K
+Feb  2 13:12:23 nickYubuntu kernel: [    6.356397] Write protecting the kernel read-only data: 20480k
+Feb  2 13:12:23 nickYubuntu kernel: [    6.357320] Freeing unused kernel memory: 2008K
+Feb  2 13:12:23 nickYubuntu kernel: [    6.361440] Freeing unused kernel memory: 1860K
+Feb  2 13:12:23 nickYubuntu kernel: [    6.373967] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+Feb  2 13:12:23 nickYubuntu kernel: [    6.374262] x86/mm: Checking user space page tables
+Feb  2 13:12:23 nickYubuntu kernel: [    6.384652] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+Feb  2 13:12:23 nickYubuntu kernel: [    6.625343] usb 1-1: new full-speed USB device number 2 using ohci-pci
+Feb  2 13:12:23 nickYubuntu kernel: [    6.634255] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.644472] ahci 0000:00:0d.0: version 3.0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.656892] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+Feb  2 13:12:23 nickYubuntu kernel: [    6.657372] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+Feb  2 13:12:23 nickYubuntu kernel: [    6.657729] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+Feb  2 13:12:23 nickYubuntu kernel: [    6.669933] scsi host2: ahci
+Feb  2 13:12:23 nickYubuntu kernel: [    6.670339] ata3: SATA max UDMA/133 abar m8192@0xf1806000 port 0xf1806100 irq 21
+Feb  2 13:12:23 nickYubuntu kernel: [    6.694203] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+Feb  2 13:12:23 nickYubuntu kernel: [    6.694760] e1000: Copyright (c) 1999-2006 Intel Corporation.
+Feb  2 13:12:23 nickYubuntu kernel: [    6.933560] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input4
+Feb  2 13:12:23 nickYubuntu kernel: [    6.938881] random: fast init done
+Feb  2 13:12:23 nickYubuntu kernel: [    6.947158] usb 1-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Feb  2 13:12:23 nickYubuntu kernel: [    6.948061] usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.948348] usb 1-1: Product: USB Tablet
+Feb  2 13:12:23 nickYubuntu kernel: [    6.948635] usb 1-1: Manufacturer: VirtualBox
+Feb  2 13:12:23 nickYubuntu kernel: [    6.983024] hidraw: raw HID events driver (C) Jiri Kosina
+Feb  2 13:12:23 nickYubuntu kernel: [    6.991007] ata3: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.991460] ata3.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+Feb  2 13:12:23 nickYubuntu kernel: [    6.991708] ata3.00: 107569152 sectors, multi 128: LBA48 NCQ (depth 31/32)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.992642] ata3.00: configured for UDMA/133
+Feb  2 13:12:23 nickYubuntu kernel: [    6.993017] scsi 2:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+Feb  2 13:12:23 nickYubuntu kernel: [    6.993662] sd 2:0:0:0: [sda] 107569152 512-byte logical blocks: (55.1 GB/51.3 GiB)
+Feb  2 13:12:23 nickYubuntu kernel: [    6.994057] sd 2:0:0:0: [sda] Write Protect is off
+Feb  2 13:12:23 nickYubuntu kernel: [    6.994297] sd 2:0:0:0: [sda] Mode Sense: 00 3a 00 00
+Feb  2 13:12:23 nickYubuntu kernel: [    6.994324] sd 2:0:0:0: Attached scsi generic sg1 type 0
+Feb  2 13:12:23 nickYubuntu kernel: [    6.994797] sd 2:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Feb  2 13:12:23 nickYubuntu kernel: [    7.017654] usbcore: registered new interface driver usbhid
+Feb  2 13:12:23 nickYubuntu kernel: [    7.017940] usbhid: USB HID core driver
+Feb  2 13:12:23 nickYubuntu kernel: [    7.030085] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input5
+Feb  2 13:12:23 nickYubuntu kernel: [    7.030914] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Feb  2 13:12:23 nickYubuntu kernel: [    7.052658]  sda: sda1
+Feb  2 13:12:23 nickYubuntu kernel: [    7.053218] sd 2:0:0:0: [sda] Attached SCSI disk
+Feb  2 13:12:23 nickYubuntu kernel: [    7.138073] tsc: Refined TSC clocksource calibration: 2658.684 MHz
+Feb  2 13:12:23 nickYubuntu kernel: [    7.138341] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2652c899d82, max_idle_ns: 440795210611 ns
+Feb  2 13:12:23 nickYubuntu kernel: [    7.242319] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:ac:2a:0c
+Feb  2 13:12:23 nickYubuntu kernel: [    7.242609] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+Feb  2 13:12:23 nickYubuntu kernel: [    7.244339] e1000 0000:00:03.0 enp0s3: renamed from eth0
+Feb  2 13:12:23 nickYubuntu kernel: [    7.355407] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+Feb  2 13:12:23 nickYubuntu kernel: [    9.956587] systemd[1]: systemd 237 running in system mode. (+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD -IDN2 +IDN -PCRE2 default-hierarchy=hybrid)
+Feb  2 13:12:23 nickYubuntu kernel: [    9.958534] systemd[1]: Detected virtualization oracle.
+Feb  2 13:12:23 nickYubuntu kernel: [    9.958954] systemd[1]: Detected architecture x86-64.
+Feb  2 13:12:23 nickYubuntu kernel: [    9.979750] systemd[1]: Set hostname to <nickYubuntu>.
+Feb  2 13:12:23 nickYubuntu kernel: [   10.318110] random: crng init done
+Feb  2 13:12:23 nickYubuntu kernel: [   12.282496] systemd[1]: Set up automount Arbitrary Executable File Formats File System Automount Point.
+Feb  2 13:12:23 nickYubuntu kernel: [   12.283636] systemd[1]: Reached target Remote File Systems.
+Feb  2 13:12:23 nickYubuntu kernel: [   12.284402] systemd[1]: Reached target User and Group Name Lookups.
+Feb  2 13:12:23 nickYubuntu kernel: [   12.285462] systemd[1]: Created slice System Slice.
+Feb  2 13:12:23 nickYubuntu kernel: [   12.286421] systemd[1]: Listening on udev Control Socket.
+Feb  2 13:12:23 nickYubuntu kernel: [   12.287222] systemd[1]: Listening on udev Kernel Socket.
+Feb  2 13:12:23 nickYubuntu kernel: [   12.477145] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+Feb  2 13:12:23 nickYubuntu kernel: [   13.007996] systemd-journald[230]: Received request to flush runtime journal from PID 1
+Feb  2 13:12:23 nickYubuntu kernel: [   13.038031] Adding 2097148k swap on /swapfile.  Priority:-2 extents:6 across:2260988k FS
+Feb  2 13:12:23 nickYubuntu kernel: [   13.174876] lp: driver loaded but no devices found
+Feb  2 13:12:23 nickYubuntu kernel: [   13.355141] ppdev: user-space parallel port driver
+Feb  2 13:12:23 nickYubuntu kernel: [   19.847506] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Feb  2 13:12:23 nickYubuntu kernel: [   19.848528] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input6
+Feb  2 13:12:23 nickYubuntu kernel: [   23.716704] cryptd: max_cpu_qlen set to 1000
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Flush Journal to Persistent Storage...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Activated swap /swapfile.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Swap.
+Feb  2 13:12:23 nickYubuntu systemd-modules-load[233]: Inserted module 'lp'
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Load/Save Random Seed.
+Feb  2 13:12:23 nickYubuntu systemd-modules-load[233]: Inserted module 'ppdev'
+Feb  2 13:12:23 nickYubuntu systemd-modules-load[233]: Inserted module 'parport_pc'
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Load Kernel Modules.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Kernel Configuration File System...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Apply Kernel Variables...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting FUSE Control File System...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Kernel Configuration File System.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted FUSE Control File System.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Create Static Device Nodes in /dev.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting udev Kernel Device Manager...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Set the console keyboard layout.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Local File Systems (Pre).
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-3-28-1804, revision 67...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-characters, revision 296...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-3-28-1804, revision 116...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-system-monitor, revision 127...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-characters, revision 399...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for core18, revision 1668...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for core18, revision 1066...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gtk-common-themes, revision 1313...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gtk-common-themes, revision 1440...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-logs, revision 81...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-calculator, revision 544...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-system-monitor, revision 100...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for core, revision 7270...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Local File Systems.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Set console font and keymap...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Clean up any mess left by 0dns-up...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-logs, revision 61...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for core, revision 8268...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounting Mount unit for gnome-calculator, revision 406...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Apply Kernel Variables.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-3-28-1804, revision 67.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-3-28-1804, revision 116.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-characters, revision 399.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for core18, revision 1668.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-system-monitor, revision 127.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-logs, revision 81.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-characters, revision 296.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gtk-common-themes, revision 1313.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-system-monitor, revision 100.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-logs, revision 61.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for core18, revision 1066.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-calculator, revision 406.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gtk-common-themes, revision 1440.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for gnome-calculator, revision 544.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for core, revision 7270.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Set console font and keymap.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Mounted Mount unit for core, revision 8268.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Tell Plymouth To Write Out Runtime Data.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Flush Journal to Persistent Storage.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Create Volatile Files and Directories...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Clean up any mess left by 0dns-up.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Raise network interfaces...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Create Volatile Files and Directories.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Network Time Synchronization...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Network Name Resolution...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started udev Kernel Device Manager.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Local Encrypted Volumes.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Feb  2 13:12:23 nickYubuntu systemd-resolved[301]: Positive Trust Anchors:
+Feb  2 13:12:23 nickYubuntu systemd-resolved[301]: . IN DS 19036 8 2 49aac11d7b6f6446702e54a1607371607a1a41855200fd2ce1cdde32f24e8fb5
+Feb  2 13:12:23 nickYubuntu systemd-resolved[301]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+Feb  2 13:12:23 nickYubuntu systemd-resolved[301]: Negative trust anchors: 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+Feb  2 13:12:23 nickYubuntu systemd-resolved[301]: Using system hostname 'nickYubuntu'.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Network Name Resolution.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Host and Network Name Lookups.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Network Time Synchronization.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target System Time Synchronized.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target System Initialization.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Message of the Day.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Discard unused blocks once a week.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Listening on ACPID Listen Socket.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Listening on UUID daemon activation socket.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started ACPI Events Check.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Daily Cleanup of Temporary Directories.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Daily apt download activities.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Daily apt upgrade and clean activities.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Listening on CUPS Scheduler.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Socket activation for snappy daemon.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started CUPS Scheduler.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Paths.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Trigger anacron every hour.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Timers.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Listening on D-Bus System Message Bus Socket.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Listening on Socket activation for snappy daemon.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Sockets.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Basic System.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started CUPS Scheduler.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Accounts Service...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Thermal Daemon Service...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started Regular background program processing daemon.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started irqbalance daemon.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Dispatcher daemon for systemd-networkd...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Avahi mDNS/DNS-SD Stack...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Disk Manager...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Login Service...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting LSB: Speech Dispatcher...
+Feb  2 13:12:23 nickYubuntu cron[329]: (CRON) INFO (pidfile fd = 3)
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Modem Manager...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Reached target Login Prompts.
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Detect the available GPUs and deal with any system changes...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting System Logging Service...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting Restore /etc/resolv.conf if the system crashed before the ppp link was shut down...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Starting LSB: automatic crash report generation...
+Feb  2 13:12:23 nickYubuntu systemd[1]: Started D-Bus System Message Bus.
+Feb  2 13:12:23 nickYubuntu cron[329]: (CRON) INFO (Running @reboot jobs)
+Feb  2 13:12:23 nickYubuntu /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+Feb  2 13:12:23 nickYubuntu avahi-daemon[332]: Found user 'avahi' (UID 116) and group 'avahi' (GID 122).
+Feb  2 13:12:23 nickYubuntu avahi-daemon[332]: Successfully dropped root privileges.
+Feb  2 13:12:23 nickYubuntu avahi-daemon[332]: avahi-daemon 0.7 starting up.
+Feb  2 13:12:23 nickYubuntu systemd-udevd[308]: link_config: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Feb  2 13:12:23 nickYubuntu gpu-manager[347]: Error: can't open /lib/modules/4.17.0-rc2nIckY/updates/dkms
+Feb  2 13:12:23 nickYubuntu gpu-manager[347]: Error: can't open /lib/modules/4.17.0-rc2nIckY/updates/dkms
+Feb  2 13:12:23 nickYubuntu udisksd[333]: udisks daemon version 2.7.6 starting
+Feb  2 13:12:23 nickYubuntu rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.32.0]
+Feb  2 13:12:23 nickYubuntu rsyslogd: rsyslogd's groupid changed to 106
+Feb  2 13:12:23 nickYubuntu rsyslogd: rsyslogd's userid changed to 102
+Feb  2 13:12:23 nickYubuntu rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="348" x-info="http://www.rsyslog.com"] start
+Feb  2 13:12:24 nickYubuntu ModemManager[346]: <info>  ModemManager (version 1.10.0) starting in system bus...
+Feb  2 13:12:24 nickYubuntu systemd-udevd[310]: link_config: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Feb  2 13:12:24 nickYubuntu kernel: [   24.562363] SSE version of gcm_enc/dec engaged.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452060] [drm] DMA map mode: Using physical TTM page addresses.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452117] [drm] Capabilities:
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452118] [drm]   Cursor.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452118] [drm]   Cursor bypass 2.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452118] [drm]   Alpha cursor.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452119] [drm]   3D.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452119] [drm]   Extended Fifo.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452119] [drm]   Pitchlock.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452119] [drm]   Irq mask.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452120] [drm]   GMR.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452120] [drm]   Traces.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452120] [drm]   GMR2.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452121] [drm]   Screen Object 2.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452121] [drm] Max GMR ids is 8192
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452122] [drm] Max number of GMR pages is 1048576
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452122] [drm] Max dedicated hypervisor surface memory is 507904 kiB
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452123] [drm] Maximum display memory size is 16384 kiB
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452124] [drm] VRAM at 0xf0000000 size is 16384 kiB
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452124] [drm] MMIO at 0xf1000000 size is 2048 kiB
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452133] [drm] global init.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452208] [TTM] Zone  kernel: Available graphics memory: 2406910 kiB
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452209] [TTM] Zone   dma32: Available graphics memory: 2097152 kiB
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452210] [TTM] Initializing pool allocator
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452214] [TTM] Initializing DMA pool allocator
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452359] [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+Feb  2 13:12:27 nickYubuntu kernel: [   27.452360] [drm] No driver support for vblank timestamp query.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454392] [drm] Screen Objects Display Unit initialized
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454465] [drm] width 720
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454485] [drm] height 400
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454502] [drm] bpp 32
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454821] [drm] Fifo max 0x00200000 min 0x00001000 cap 0x00000355
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454837] [drm] DX: no.
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454837] [drm] Atomic: yes
+Feb  2 13:12:27 nickYubuntu kernel: [   27.454860] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send log
+Feb  2 13:12:27 nickYubuntu kernel: [   27.458894] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send log
+Feb  2 13:12:27 nickYubuntu kernel: [   27.468049] fbcon: svgadrmfb (fb0) is primary device
+Feb  2 13:12:27 nickYubuntu kernel: [   27.472876] Console: switching to colour frame buffer device 100x37
+Feb  2 13:12:27 nickYubuntu kernel: [   27.474958] [drm] Initialized vmwgfx 2.14.1 20180322 for 0000:00:02.0 on minor 0
+Feb  2 13:12:27 nickYubuntu mtp-probe: checking bus 1, device 2: "/sys/devices/pci0000:00/0000:00:06.0/usb1/1-1"
+Feb  2 13:12:27 nickYubuntu mtp-probe: bus: 1, device: 2 was not an MTP device
+Feb  2 13:12:29 nickYubuntu dbus-daemon[351]: dbus[351]: Unknown group "power" in message bus configuration file
+Feb  2 13:12:30 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.systemd1'
+Feb  2 13:12:30 nickYubuntu kernel: [   30.703689] snd_intel8x0 0000:00:05.0: white list rate for 1028:0177 is 48000
+Feb  2 13:12:30 nickYubuntu systemd[1]: Started Login Service.
+Feb  2 13:12:30 nickYubuntu systemd[1]: Starting Network Manager...
+Feb  2 13:12:30 nickYubuntu systemd[1]: Starting WPA supplicant...
+Feb  2 13:12:30 nickYubuntu systemd[1]: Starting LSB: Record successful boot for GRUB...
+Feb  2 13:12:30 nickYubuntu avahi-daemon[332]: Successfully called chroot().
+Feb  2 13:12:30 nickYubuntu avahi-daemon[332]: Successfully dropped remaining capabilities.
+Feb  2 13:12:30 nickYubuntu systemd[1]: Starting Save/Restore Sound Card State...
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: No service file found in /etc/avahi/services.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started ACPI event daemon.
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: Joining mDNS multicast group on interface lo.IPv6 with address ::1.
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: New relevant interface lo.IPv6 for mDNS.
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: New relevant interface lo.IPv4 for mDNS.
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: Network interface enumeration completed.
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: Registering new address record for ::1 on lo.*.
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: Registering new address record for 127.0.0.1 on lo.IPv4.
+Feb  2 13:12:31 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.8' (uid=0 pid=346 comm="/usr/sbin/ModemManager --filter-policy=strict " label="kernel")
+Feb  2 13:12:31 nickYubuntu thermald[328]: NO RAPL sysfs present
+Feb  2 13:12:31 nickYubuntu thermald[328]: 11 CPUID levels; family:model:stepping 0x6:25:5 (6:37:5)
+Feb  2 13:12:31 nickYubuntu thermald[328]:  Need Linux PowerCap sysfs
+Feb  2 13:12:31 nickYubuntu systemd[1]: Starting Snappy daemon...
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started System Logging Service.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started Raise network interfaces.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started Detect the available GPUs and deal with any system changes.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started Thermal Daemon Service.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Starting Authorization Manager...
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started Make remote CUPS printers available locally.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Reached target Sound Card.
+Feb  2 13:12:31 nickYubuntu systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Feb  2 13:12:31 nickYubuntu acpid: starting up with netlink and the input layer
+Feb  2 13:12:31 nickYubuntu apport[350]:  * Starting automatic crash report generation: apport
+Feb  2 13:12:31 nickYubuntu grub-common[530]:  * Recording successful boot for GRUB
+Feb  2 13:12:31 nickYubuntu avahi-daemon[332]: Server startup complete. Host name is nickYubuntu.local. Local service cookie is 1578917836.
+Feb  2 13:12:31 nickYubuntu speech-dispatcher[335]:  * speech-dispatcher disabled; edit /etc/default/speech-dispatcher
+Feb  2 13:12:31 nickYubuntu systemd[1]: Started LSB: Speech Dispatcher.
+Feb  2 13:12:32 nickYubuntu thermald[328]: Unsupported cpu model, use thermal-conf.xml file or run with --ignore-cpuid-check
+Feb  2 13:12:32 nickYubuntu thermald[328]: THD engine start failed
+Feb  2 13:12:33 nickYubuntu udisksd[333]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Feb  2 13:12:33 nickYubuntu udisksd[333]: Failed to load the 'mdraid' libblockdev plugin
+Feb  2 13:12:34 nickYubuntu polkitd[540]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Feb  2 13:12:34 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+Feb  2 13:12:34 nickYubuntu systemd[1]: Started Authorization Manager.
+Feb  2 13:12:34 nickYubuntu accounts-daemon[327]: started daemon version 0.6.45
+Feb  2 13:12:34 nickYubuntu systemd[1]: Started Accounts Service.
+Feb  2 13:12:34 nickYubuntu acpid: 8 rules loaded
+Feb  2 13:12:34 nickYubuntu acpid: waiting for events: event logging is off
+Feb  2 13:12:34 nickYubuntu apport[350]:    ...done.
+Feb  2 13:12:34 nickYubuntu systemd[1]: Started LSB: automatic crash report generation.
+Feb  2 13:12:34 nickYubuntu systemd[1]: Started Save/Restore Sound Card State.
+Feb  2 13:12:35 nickYubuntu systemd[1]: Started WPA supplicant.
+Feb  2 13:12:35 nickYubuntu wpa_supplicant[529]: Successfully initialized wpa_supplicant
+Feb  2 13:12:35 nickYubuntu networkd-dispatcher[331]: WARNING: systemd-networkd is not running, output will be incomplete.
+Feb  2 13:12:35 nickYubuntu systemd[1]: Started Dispatcher daemon for systemd-networkd.
+Feb  2 13:12:35 nickYubuntu systemd[1]: Started Modem Manager.
+Feb  2 13:12:35 nickYubuntu grub-common[530]:    ...done.
+Feb  2 13:12:35 nickYubuntu systemd[1]: Started LSB: Record successful boot for GRUB.
+Feb  2 13:12:36 nickYubuntu snapd[538]: AppArmor status: apparmor not enabled
+Feb  2 13:12:36 nickYubuntu systemd[1]: Started Disk Manager.
+Feb  2 13:12:36 nickYubuntu udisksd[333]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Feb  2 13:12:36 nickYubuntu NetworkManager[528]: <info>  [1580667156.8120] NetworkManager (version 1.10.6) is starting... (for the first time)
+Feb  2 13:12:36 nickYubuntu NetworkManager[528]: <info>  [1580667156.8121] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Feb  2 13:12:36 nickYubuntu NetworkManager[528]: <info>  [1580667156.9058] manager[0x559c5686d060]: monitoring kernel firmware directory '/lib/firmware'.
+Feb  2 13:12:36 nickYubuntu NetworkManager[528]: <info>  [1580667156.9098] monitoring ifupdown state file '/run/network/ifstate'.
+Feb  2 13:12:36 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.14' (uid=0 pid=528 comm="/usr/sbin/NetworkManager --no-daemon " label="kernel")
+Feb  2 13:12:36 nickYubuntu systemd[1]: Starting Hostname Service...
+Feb  2 13:12:37 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Feb  2 13:12:37 nickYubuntu systemd[1]: Started Hostname Service.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.0778] hostname: hostname: using hostnamed
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.0779] hostname: hostname changed from (none) to "nickYubuntu"
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.0791] dns-mgr[0x559c5688b940]: init: dns=systemd-resolved, rc-manager=symlink, plugin=systemd-resolved
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.0797] manager[0x559c5686d060]: rfkill: WiFi hardware radio set enabled
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.0797] manager[0x559c5686d060]: rfkill: WWAN hardware radio set enabled
+Feb  2 13:12:37 nickYubuntu systemd[1]: Started Network Manager.
+Feb  2 13:12:37 nickYubuntu systemd[1]: Reached target Network.
+Feb  2 13:12:37 nickYubuntu systemd[1]: Started Unattended Upgrades Shutdown.
+Feb  2 13:12:37 nickYubuntu systemd[1]: Starting Permit User Sessions...
+Feb  2 13:12:37 nickYubuntu systemd[1]: Starting Network Manager Wait Online...
+Feb  2 13:12:37 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.14' (uid=0 pid=528 comm="/usr/sbin/NetworkManager --no-daemon " label="kernel")
+Feb  2 13:12:37 nickYubuntu systemd[1]: Starting Network Manager Script Dispatcher Service...
+Feb  2 13:12:37 nickYubuntu systemd[1]: Started Permit User Sessions.
+Feb  2 13:12:37 nickYubuntu systemd[1]: Starting GNOME Display Manager...
+Feb  2 13:12:37 nickYubuntu systemd[1]: Starting Hold until boot process finishes up...
+Feb  2 13:12:37 nickYubuntu systemd[1]: Started Hold until boot process finishes up.
+Feb  2 13:12:37 nickYubuntu systemd[1]: Starting Set console scheme...
+Feb  2 13:12:37 nickYubuntu systemd[1]: Started Set console scheme.
+Feb  2 13:12:37 nickYubuntu systemd[1]: Created slice system-getty.slice.
+Feb  2 13:12:37 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Feb  2 13:12:37 nickYubuntu systemd[1]: Started Network Manager Script Dispatcher Service.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.5998] init!
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6004]       interface-parser: parsing file /etc/network/interfaces
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6006]       interface-parser: finished parsing file /etc/network/interfaces
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6008] management mode: unmanaged
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6014] devices added (path: /sys/devices/pci0000:00/0000:00:03.0/net/enp0s3, iface: enp0s3)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6016] device added (path: /sys/devices/pci0000:00/0000:00:03.0/net/enp0s3, iface: enp0s3): no ifupdown configuration found.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6018] devices added (path: /sys/devices/virtual/net/lo, iface: lo)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6020] device added (path: /sys/devices/virtual/net/lo, iface: lo): no ifupdown configuration found.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6022] end _init.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6024] settings: loaded plugin ifupdown: (C) 2008 Canonical Ltd.  To report bugs please use the NetworkManager mailing list. (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-settings-plugin-ifupdown.so)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6030] settings: loaded plugin keyfile: (c) 2007 - 2016 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6032] (1451917440) ... get_connections.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6033] (1451917440) ... get_connections (managed=false): return empty list.
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6399] get unmanaged devices count: 0
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6400] manager: rfkill: WiFi enabled by radio killswitch; enabled by state file
+Feb  2 13:12:37 nickYubuntu nm-dispatcher: req:1 'hostname': new request (1 scripts)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6400] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Feb  2 13:12:37 nickYubuntu nm-dispatcher: req:1 'hostname': start running ordered scripts...
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6400] manager: Networking is enabled by state file
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6403] dhcp-init: Using DHCP client 'dhclient'
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6488] Loaded device plugin: NMBondDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6488] Loaded device plugin: NMBridgeDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6489] Loaded device plugin: NMDummyDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6489] Loaded device plugin: NMEthernetDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6489] Loaded device plugin: NMInfinibandDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6490] Loaded device plugin: NMIPTunnelDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6490] Loaded device plugin: NMMacsecDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6490] Loaded device plugin: NMMacvlanDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6490] Loaded device plugin: NMPppDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6491] Loaded device plugin: NMTunDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6491] Loaded device plugin: NMVethDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6491] Loaded device plugin: NMVlanDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6491] Loaded device plugin: NMVxlanDeviceFactory (internal)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.6599] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-adsl.so)
+Feb  2 13:12:37 nickYubuntu snapd[538]: AppArmor status: apparmor not enabled
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.7075] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-team.so)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.8221] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-bluetooth.so)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.8500] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-wifi.so)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.8650] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-wwan.so)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.8812] device (lo): carrier: link connected
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.8835] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.8860] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.8878] keyfile: add connection in-memory (79903754-69a3-3615-a2ad-fcc0c890ea14,"Wired connection 1")
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.9193] settings: (enp0s3): created default wired connection 'Wired connection 1'
+Feb  2 13:12:37 nickYubuntu NetworkManager[528]: <info>  [1580667157.9239] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Feb  2 13:12:37 nickYubuntu kernel: [   37.684758] IPv6: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+Feb  2 13:12:37 nickYubuntu kernel: [   37.687573] IPv6: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+Feb  2 13:12:37 nickYubuntu kernel: [   37.692051] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Feb  2 13:12:37 nickYubuntu kernel: [   37.692379] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0131] modem-manager: ModemManager available
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0210] device (enp0s3): carrier: link connected
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0237] device (enp0s3): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0280] policy: auto-activating connection 'Wired connection 1'
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0297] device (enp0s3): Activation: starting connection 'Wired connection 1' (79903754-69a3-3615-a2ad-fcc0c890ea14)
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0313] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0321] manager: NetworkManager state is now CONNECTING
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0345] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0363] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.0585] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Feb  2 13:12:38 nickYubuntu NetworkManager[528]: <info>  [1580667158.2413] dhcp4 (enp0s3): dhclient started with pid 619
+Feb  2 13:12:38 nickYubuntu ModemManager[346]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Feb  2 13:12:38 nickYubuntu systemd[1]: Started GNOME Display Manager.
+Feb  2 13:12:38 nickYubuntu snapd[538]: daemon.go:346: started snapd/2.42.5 (series 16; classic; devmode) ubuntu/18.04 (amd64) linux/4.17.0-rc2nIckY.
+Feb  2 13:12:39 nickYubuntu dhclient[619]: DHCPREQUEST of 10.0.2.15 on enp0s3 to 255.255.255.255 port 67 (xid=0x75116bf7)
+Feb  2 13:12:39 nickYubuntu dhclient[619]: DHCPACK of 10.0.2.15 from 10.0.2.2
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.3714] dhcp4 (enp0s3):   address 10.0.2.15
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.3719] dhcp4 (enp0s3):   plen 24 (255.255.255.0)
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.3822] dhcp4 (enp0s3):   gateway 10.0.2.2
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.3824] dhcp4 (enp0s3):   lease time 86400
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.3825] dhcp4 (enp0s3):   nameserver '192.168.1.1'
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.3827] dhcp4 (enp0s3): state changed unknown -> bound
+Feb  2 13:12:39 nickYubuntu avahi-daemon[332]: Joining mDNS multicast group on interface enp0s3.IPv4 with address 10.0.2.15.
+Feb  2 13:12:39 nickYubuntu avahi-daemon[332]: New relevant interface enp0s3.IPv4 for mDNS.
+Feb  2 13:12:39 nickYubuntu avahi-daemon[332]: Registering new address record for 10.0.2.15 on enp0s3.IPv4.
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.3880] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Feb  2 13:12:39 nickYubuntu snapd[538]: daemon.go:439: adjusting startup timeout by 1m10s (pessimistic estimate of 30s plus 5s per snap)
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.4071] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.4139] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.4148] manager: NetworkManager state is now CONNECTED_LOCAL
+Feb  2 13:12:39 nickYubuntu dhclient[619]: bound to 10.0.2.15 -- renewal in 41770 seconds.
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.5037] manager: NetworkManager state is now CONNECTED_SITE
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.5039] policy: set 'Wired connection 1' (enp0s3) as default for IPv4 routing and DNS
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.5050] device (enp0s3): Activation: successful, device activated.
+Feb  2 13:12:39 nickYubuntu NetworkManager[528]: <info>  [1580667159.5058] manager: startup complete
+Feb  2 13:12:39 nickYubuntu nm-dispatcher: req:2 'up' [enp0s3]: new request (1 scripts)
+Feb  2 13:12:39 nickYubuntu nm-dispatcher: req:2 'up' [enp0s3]: start running ordered scripts...
+Feb  2 13:12:39 nickYubuntu systemd[1]: Started Network Manager Wait Online.
+Feb  2 13:12:39 nickYubuntu systemd[1]: Reached target Network is Online.
+Feb  2 13:12:39 nickYubuntu systemd[1]: Started crash report submission daemon.
+Feb  2 13:12:39 nickYubuntu avahi-daemon[332]: Joining mDNS multicast group on interface enp0s3.IPv6 with address fe80::d4c5:1c80:3152:e7f5.
+Feb  2 13:12:39 nickYubuntu avahi-daemon[332]: New relevant interface enp0s3.IPv6 for mDNS.
+Feb  2 13:12:39 nickYubuntu avahi-daemon[332]: Registering new address record for fe80::d4c5:1c80:3152:e7f5 on enp0s3.*.
+Feb  2 13:12:39 nickYubuntu systemd[1]: Starting Tool to automatically collect and submit kernel crash signatures...
+Feb  2 13:12:39 nickYubuntu whoopsie[655]: [13:12:39] Using lock path: /var/lock/whoopsie/lock
+Feb  2 13:12:40 nickYubuntu systemd[1]: Started Snappy daemon.
+Feb  2 13:12:40 nickYubuntu systemd[1]: Starting Wait until snapd is fully seeded...
+Feb  2 13:12:40 nickYubuntu systemd[1]: kerneloops.service: Found left-over process 693 (kerneloops) in control group while starting unit. Ignoring.
+Feb  2 13:12:40 nickYubuntu systemd[1]: This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+Feb  2 13:12:40 nickYubuntu systemd[1]: Started Tool to automatically collect and submit kernel crash signatures.
+Feb  2 13:12:40 nickYubuntu systemd[1]: Started Wait until snapd is fully seeded.
+Feb  2 13:12:40 nickYubuntu systemd[1]: Reached target Multi-User System.
+Feb  2 13:12:40 nickYubuntu systemd[1]: Reached target Graphical Interface.
+Feb  2 13:12:40 nickYubuntu systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Feb  2 13:12:40 nickYubuntu systemd[1]: Started Update UTMP about System Runlevel Changes.
+Feb  2 13:12:40 nickYubuntu systemd[1]: Startup finished in 9.022s (kernel) + 31.613s (userspace) = 40.635s.
+Feb  2 13:12:41 nickYubuntu systemd[1]: Created slice User Slice of nick.
+Feb  2 13:12:41 nickYubuntu systemd[1]: Started Session 1 of user nick.
+Feb  2 13:12:41 nickYubuntu systemd[1]: Starting User Manager for UID 1000...
+Feb  2 13:12:42 nickYubuntu systemd[701]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Feb  2 13:12:42 nickYubuntu systemd[701]: Listening on GnuPG cryptographic agent and passphrase cache.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Feb  2 13:12:42 nickYubuntu systemd[701]: Reached target Timers.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Listening on GnuPG network certificate management daemon.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Starting D-Bus User Message Bus Socket.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Started Pending report trigger for Ubuntu Report.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Reached target Paths.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Feb  2 13:12:42 nickYubuntu systemd[701]: Listening on D-Bus User Message Bus Socket.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Reached target Sockets.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Reached target Basic System.
+Feb  2 13:12:42 nickYubuntu systemd[1]: Started User Manager for UID 1000.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Reached target Default.
+Feb  2 13:12:42 nickYubuntu systemd[701]: Startup finished in 594ms.
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) Log file renamed from "/home/nick/.local/share/xorg/Xorg.pid-751.log" to "/home/nick/.local/share/xorg/Xorg.0.log"
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: X.Org X Server 1.20.4
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: X Protocol Version 11, Revision 0
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: Build Operating System: Linux 4.4.0-148-generic x86_64 Ubuntu
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: Current Operating System: Linux nickYubuntu 4.17.0-rc2nIckY #9 SMP Sun Feb 2 08:43:28 EST 2020 x86_64
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.17.0-rc2nIckY root=UUID=3b9dbdf9-e505-48a0-9479-ae5d5eb87196 ro
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: Build Date: 02 May 2019  08:06:54AM
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: xorg-server-hwe-18.04 2:1.20.4-1ubuntu3~18.04.1 (For technical support please see http://www.ubuntu.com/support)
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: Current version of pixman: 0.34.0
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Before reporting problems, check http://wiki.x.org
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011to make sure that you have the latest version.
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: Markers: (--) probed, (**) from config file, (==) default setting,
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011(++) from command line, (!!) notice, (II) informational,
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Log file: "/home/nick/.local/share/xorg/Xorg.0.log", Time: Sun Feb  2 13:12:42 2020
+Feb  2 13:12:42 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) No Layout section.  Using the first Screen section.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) No screen section available. Using defaults.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) |-->Screen "Default Screen Section" (0)
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) |   |-->Monitor "<default monitor>"
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) No monitor specified for screen "Default Screen Section".
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Using a default monitor configuration.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Automatically adding devices
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Automatically enabling devices
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Automatically adding GPU devices
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Automatically binding GPU devices
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Max clients allowed: 256, resource mask: 0x1fffff
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Entry deleted from font path.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Entry deleted from font path.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Entry deleted from font path.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Entry deleted from font path.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Entry deleted from font path.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) FontPath set to:
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011/usr/share/fonts/X11/misc,
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011/usr/share/fonts/X11/Type1,
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011built-ins
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) ModulePath set to "/usr/lib/xorg/modules"
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) The server relies on udev to provide the list of input devices.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011If no devices become available, reconfigure udev or disable AutoAddDevices.
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loader magic: 0x556cc70e5020
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module ABI versions:
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011X.Org ANSI C Emulation: 0.4
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011X.Org Video Driver: 24.0
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011X.Org XInput driver : 24.1
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011X.Org Server Extension : 10.0
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (++) using VT number 1
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: took control of session /org/freedesktop/login1/session/_31
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) xfree86: Adding drm device (/dev/dri/card0)
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) PCI:*(0@0:2:0) 15ad:0405:15ad:0405 rev 0, Mem @ 0xf0000000/16777216, 0xf1000000/2097152, I/O @ 0x0000d010/16, BIOS @ 0x????????/131072
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "glx"
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module glx: vendor="X.Org Foundation"
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.4, module version = 1.0.0
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org Server Extension, version 10.0
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Matched vmware as autoconfigured driver 0
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Matched modesetting as autoconfigured driver 1
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Matched fbdev as autoconfigured driver 2
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Matched vesa as autoconfigured driver 3
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) Assigned the driver to the xf86ConfigLayout
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "vmware"
+Feb  2 13:12:43 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module vmware: vendor="X.Org Foundation"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.1, module version = 13.3.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Module class: X.Org Video Driver
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org Video Driver, version 24.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "modesetting"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module modesetting: vendor="X.Org Foundation"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.4, module version = 1.20.4
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Module class: X.Org Video Driver
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org Video Driver, version 24.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "fbdev"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module fbdev: vendor="X.Org Foundation"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.1, module version = 0.5.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Module class: X.Org Video Driver
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org Video Driver, version 24.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "vesa"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module vesa: vendor="X.Org Foundation"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.1, module version = 2.4.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Module class: X.Org Video Driver
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org Video Driver, version 24.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware: driver for VMware SVGA: vmware0405, vmware0710
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) FBDEV: driver for framebuffer: fbdev
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) VESA: driver for VESA chipsets: vesa
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) Falling back to old probe method for modesetting
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) Falling back to old probe method for fbdev
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading sub module "fbdevhw"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "fbdevhw"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/libfbdevhw.so
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module fbdevhw: vendor="X.Org Foundation"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.4, module version = 0.0.2
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org Video Driver, version 24.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (EE) open /dev/fb0: Permission denied
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Creating default Display subsection in Screen section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011"Default Screen Section" for depth/fbbpp 24/32
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) vmware(0): DRM driver version is 2.14.1
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): Depth 24, (--) framebuffer bpp 32
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): RGB weight 888
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): Default visual is TrueColor
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) vmware(0): Min width 1, Max Width 8192.
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) vmware(0): Min height 1, Max Height 8192.
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual1 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual2 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual3 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual4 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual5 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual6 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual7 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual8 has no monitor section
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Printing probed modes for output Virtual1
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "800x600"x60.0   42.75  800 850 900 950  600 650 700 750 -hsync +vsync (45.0 kHz eP)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "2560x1600"x60.0  348.50  2560 2752 3032 3504  1600 1603 1609 1658 -hsync +vsync (99.5 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1920x1440"x60.0  234.00  1920 2048 2256 2600  1440 1441 1444 1500 -hsync +vsync (90.0 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1856x1392"x60.0  218.25  1856 1952 2176 2528  1392 1393 1396 1439 -hsync +vsync (86.3 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1792x1344"x60.0  204.75  1792 1920 2120 2448  1344 1345 1348 1394 -hsync +vsync (83.6 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1920x1200"x59.9  193.25  1920 2056 2256 2592  1200 1203 1209 1245 -hsync +vsync (74.6 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1600x1200"x60.0  162.00  1600 1664 1856 2160  1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1680x1050"x60.0  146.25  1680 1784 1960 2240  1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1400x1050"x60.0  121.75  1400 1488 1632 1864  1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1280x1024"x60.0  108.00  1280 1328 1440 1688  1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1440x900"x59.9  106.50  1440 1520 1672 1904  900 903 909 934 -hsync +vsync (55.9 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1280x960"x60.0  108.00  1280 1376 1488 1800  960 961 964 1000 +hsync +vsync (60.0 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1360x768"x60.0   85.50  1360 1424 1536 1792  768 771 777 795 +hsync +vsync (47.7 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1280x800"x59.8   83.50  1280 1352 1480 1680  800 803 809 831 +hsync -vsync (49.7 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1152x864"x75.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1280x768"x59.9   79.50  1280 1344 1472 1664  768 771 778 798 -hsync +vsync (47.8 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 489 492 525 -hsync -vsync (31.5 kHz e)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): EDID for output Virtual2
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): EDID for output Virtual3
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): EDID for output Virtual4
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): EDID for output Virtual5
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): EDID for output Virtual6
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): EDID for output Virtual7
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): EDID for output Virtual8
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual1 connected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual2 disconnected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual3 disconnected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual4 disconnected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual5 disconnected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual6 disconnected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual7 disconnected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual8 disconnected
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Using exact sizes for initial modes
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Output Virtual1 using initial mode 800x600 +0+0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): DPI set to (96, 96)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): Using gamma correction (1.0, 1.0, 1.0)
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading sub module "fb"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "fb"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/libfb.so
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module fb: vendor="X.Org Foundation"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.4, module version = 1.0.0
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading sub module "dri2"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "dri2"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module "dri2" already built-in
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading sub module "dri3"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "dri3"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module "dri3" already built-in
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) UnloadModule: "modesetting"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Unloading modesetting
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) UnloadModule: "fbdev"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Unloading fbdev
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) UnloadSubModule: "fbdevhw"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Unloading fbdevhw
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) UnloadModule: "vesa"
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Unloading vesa
+Feb  2 13:12:46 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Initialized VMWARE_CTRL extension version 0.2
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: VMware: No 3D enabled (0, Success).
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) vmware(0): Failed to initialize Gallium3D Xa. No render acceleration available.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) vmware(0): Skipped initialization of direct rendering due to lack of render acceleration.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) vmware(0): Render acceleration is disabled.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): Rendercheck mode is disabled.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) vmware(0): Direct rendering (DRI2 3D) is disabled.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (--) vmware(0): Direct rendering (DRI3 3D) is disabled.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): Backing store enabled
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): Silken mouse enabled
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (==) vmware(0): DPMS enabled
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): No 3D acceleration. Not setting up textured video.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (WW) vmware(0): Disabling Xv because no adaptors could be initialized.
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension Generic Event Extension
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension SHAPE
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension MIT-SHM
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XInputExtension
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XTEST
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension BIG-REQUESTS
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension SYNC
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XKEYBOARD
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XC-MISC
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension SECURITY
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XFIXES
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension RENDER
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension RANDR
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension COMPOSITE
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension DAMAGE
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension MIT-SCREEN-SAVER
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension DOUBLE-BUFFER
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension RECORD
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension DPMS
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension Present
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension DRI3
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension X-Resource
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XVideo
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XVideo-MotionCompensation
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension SELinux
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) SELinux: Disabled on system
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension GLX
+Feb  2 13:12:47 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) AIGLX: Screen 0 is not DRI2 capable
+Feb  2 13:12:48 nickYubuntu systemd-timesyncd[300]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) IGLX: Loaded and initialized swrast
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) GLX: Initialized DRISWRAST GL provider for screen 0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XFree86-VidModeExtension
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XFree86-DGA
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension XFree86-DRI
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Initializing extension DRI2
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) vmware(0): Setting screen physical size to 211 x 158
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device Power Button (/dev/input/event0)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) LoadModule: "libinput"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Module libinput: vendor="X.Org Foundation"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011compiled for 1.20.1, module version = 0.28.1
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011Module class: X.Org XInput Driver
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: #011ABI class: X.Org XInput driver, version 24.1
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Using input driver 'libinput' for 'Power Button'
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: got fd for /dev/input/event0 13:64 fd 20 paused 0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Power Button: always reports core events
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "Device" "/dev/input/event0"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "_source" "server/udev"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event0  - Power Button: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event0  - Power Button: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event0  - Power Button: device removed
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input0/event0"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_model" "pc105"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_layout" "us"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event0  - Power Button: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event0  - Power Button: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device Sleep Button (/dev/input/event1)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Sleep Button: Applying InputClass "libinput keyboard catchall"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Using input driver 'libinput' for 'Sleep Button'
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 23 paused 0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Sleep Button: always reports core events
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "Device" "/dev/input/event1"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "_source" "server/udev"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event1  - Sleep Button: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event1  - Sleep Button: device removed
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSLPBN:00/input/input1/event1"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_model" "pc105"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_layout" "us"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event1  - Sleep Button: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device Video Bus (/dev/input/event5)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Using input driver 'libinput' for 'Video Bus'
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 24 paused 0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Video Bus: always reports core events
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "Device" "/dev/input/event5"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "_source" "server/udev"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event5  - Video Bus: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event5  - Video Bus: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event5  - Video Bus: device removed
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input6/event5"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_model" "pc105"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_layout" "us"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event5  - Video Bus: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event5  - Video Bus: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/event4)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) VirtualBox USB Tablet: Applying InputClass "libinput pointer catchall"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Using input driver 'libinput' for 'VirtualBox USB Tablet'
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 25 paused 0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) VirtualBox USB Tablet: always reports core events
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "Device" "/dev/input/event4"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "_source" "server/udev"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event4  - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event4  - VirtualBox USB Tablet: device is a pointer
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event4  - VirtualBox USB Tablet: device removed
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input5/event4"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) XINPUT: Adding extended input device "VirtualBox USB Tablet" (type: MOUSE, id 9)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "AccelerationScheme" "none"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) VirtualBox USB Tablet: (accel) selected scheme none/0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) VirtualBox USB Tablet: (accel) acceleration factor: 2.000
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) VirtualBox USB Tablet: (accel) acceleration threshold: 4
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event4  - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event4  - VirtualBox USB Tablet: device is a pointer
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/js0)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) No input driver specified, ignoring this device.
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) This device may have been added with another device file.
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/mouse1)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) No input driver specified, ignoring this device.
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) This device may have been added with another device file.
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 26 paused 0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) AT Translated Set 2 keyboard: always reports core events
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "Device" "/dev/input/event2"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "_source" "server/udev"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event2  - AT Translated Set 2 keyboard: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event2  - AT Translated Set 2 keyboard: device removed
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input2/event2"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 10)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_model" "pc105"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "xkb_layout" "us"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event2  - AT Translated Set 2 keyboard: device is a keyboard
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event3)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) ImExPS/2 Generic Explorer Mouse: Applying InputClass "libinput pointer catchall"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 27 paused 0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) ImExPS/2 Generic Explorer Mouse: always reports core events
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "Device" "/dev/input/event3"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "_source" "server/udev"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event3  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event3  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event3  - ImExPS/2 Generic Explorer Mouse: device removed
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio1/input/input4/event3"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 11)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) Option "AccelerationScheme" "none"
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) ImExPS/2 Generic Explorer Mouse: (accel) selected scheme none/0
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) ImExPS/2 Generic Explorer Mouse: (accel) acceleration factor: 2.000
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (**) ImExPS/2 Generic Explorer Mouse: (accel) acceleration threshold: 4
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event3  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) event3  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) No input driver specified, ignoring this device.
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: (II) This device may have been added with another device file.
+Feb  2 13:12:49 nickYubuntu systemd[701]: Started D-Bus User Message Bus.
+Feb  2 13:12:49 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: /etc/gdm3/Xsession: Beginning session setup...
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: localuser:nick being added to access control list
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting DISPLAY=:0
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: localuser:nick being added to access control list
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting CLUTTER_IM_MODULE=xim
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting LANG=en_US.UTF-8
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting DISPLAY=:0
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting USERNAME=nick
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting USER=nick
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting QT4_IM_MODULE=xim
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting TEXTDOMAINDIR=/usr/share/locale/
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting PWD=/home/nick
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting HOME=/home/nick
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting TEXTDOMAIN=im-config
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting WINDOWPATH=1
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting SHELL=/bin/bash
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting QT_IM_MODULE=xim
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting IM_CONFIG_PHASE=2
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting SHLVL=1
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting GDMSESSION=ubuntu
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting LOGNAME=nick
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+Feb  2 13:12:50 nickYubuntu /usr/lib/gdm3/gdm-x-session[749]: dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+Feb  2 13:12:51 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.6' (uid=1000 pid=760 comm="/usr/lib/gnome-session/gnome-session-binary --sess" label="kernel")
+Feb  2 13:12:51 nickYubuntu systemd[701]: Starting Virtual filesystem service...
+Feb  2 13:12:52 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gtk.vfs.Daemon'
+Feb  2 13:12:52 nickYubuntu systemd[701]: Started Virtual filesystem service.
+Feb  2 13:12:52 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.9' (uid=1000 pid=864 comm="/usr/lib/gnome-session/gnome-session-check-acceler" label="kernel")
+Feb  2 13:12:52 nickYubuntu systemd[701]: Starting Accessibility services bus...
+Feb  2 13:12:52 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.a11y.Bus'
+Feb  2 13:12:52 nickYubuntu systemd[701]: Started Accessibility services bus.
+Feb  2 13:12:53 nickYubuntu at-spi-bus-launcher[872]: dbus-daemon[877]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=864 comm="/usr/lib/gnome-session/gnome-session-check-acceler" label="kernel")
+Feb  2 13:12:53 nickYubuntu at-spi-bus-launcher[872]: dbus-daemon[877]: Successfully activated service 'org.a11y.atspi.Registry'
+Feb  2 13:12:53 nickYubuntu at-spi-bus-launcher[872]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Feb  2 13:12:53 nickYubuntu gnome-session[760]: gnome-session-check-accelerated: GL Helper exited with code 512
+Feb  2 13:12:53 nickYubuntu gnome-session[760]: libEGL warning: DRI2: failed to authenticate
+Feb  2 13:12:53 nickYubuntu gnome-session[760]: gnome-session-check-accelerated: GLES Helper exited with code 512
+Feb  2 13:12:54 nickYubuntu gnome-keyring-ssh.desktop[889]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Feb  2 13:12:54 nickYubuntu gnome-keyring-secrets.desktop[890]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Feb  2 13:12:54 nickYubuntu gnome-keyring-pkcs11.desktop[891]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Feb  2 13:12:55 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.31' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:12:55 nickYubuntu systemd[1]: Starting Daemon for power management...
+Feb  2 13:12:55 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.UPower'
+Feb  2 13:12:55 nickYubuntu systemd[1]: Started Daemon for power management.
+Feb  2 13:12:55 nickYubuntu whoopsie[655]: [13:12:55] offline
+Feb  2 13:12:57 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.33' (uid=1000 pid=913 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="kernel")
+Feb  2 13:12:57 nickYubuntu systemd[1]: Starting RealtimeKit Scheduling Policy Service...
+Feb  2 13:12:57 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+Feb  2 13:12:57 nickYubuntu systemd[1]: Started RealtimeKit Scheduling Policy Service.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Successfully called chroot.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Successfully dropped privileges.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Successfully limited resources.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Running.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Watchdog thread running.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Canary thread running.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Successfully made thread 913 of process 913 (n/a) owned by '1000' high priority at nice level -11.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Supervising 1 threads of 1 processes of 1 users.
+Feb  2 13:12:57 nickYubuntu pulseaudio[913]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+Feb  2 13:12:57 nickYubuntu pulseaudio[913]: [pulseaudio] sink.c: Default and alternate sample rates are the same.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Supervising 1 threads of 1 processes of 1 users.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Successfully made thread 917 of process 913 (n/a) owned by '1000' RT at priority 5.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Supervising 2 threads of 1 processes of 1 users.
+Feb  2 13:12:57 nickYubuntu pulseaudio[913]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+Feb  2 13:12:57 nickYubuntu pulseaudio[913]: [pulseaudio] source.c: Default and alternate sample rates are the same.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Supervising 2 threads of 1 processes of 1 users.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Successfully made thread 918 of process 913 (n/a) owned by '1000' RT at priority 5.
+Feb  2 13:12:57 nickYubuntu rtkit-daemon[914]: Supervising 3 threads of 1 processes of 1 users.
+Feb  2 13:12:59 nickYubuntu kernel: [   58.899906] sched: RT throttling activated
+Feb  2 13:12:59 nickYubuntu pulseaudio[913]: [alsa-sink-Intel ICH] alsa-sink.c: ALSA woke us up to write new data to the device, but there was actually nothing to write.
+Feb  2 13:12:59 nickYubuntu pulseaudio[913]: [alsa-sink-Intel ICH] alsa-sink.c: Most likely this is a bug in the ALSA driver 'snd_intel8x0'. Please report this issue to the ALSA developers.
+Feb  2 13:12:59 nickYubuntu pulseaudio[913]: [alsa-sink-Intel ICH] alsa-sink.c: We were woken up with POLLOUT set -- however a subsequent snd_pcm_avail() returned 0 or another value < min_avail.
+Feb  2 13:12:59 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.37' (uid=1000 pid=913 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="kernel")
+Feb  2 13:13:00 nickYubuntu snapd[538]: storehelpers.go:436: cannot refresh: snap has no updates available: "core", "core18", "gnome-3-28-1804", "gnome-calculator", "gnome-characters", "gnome-logs", "gnome-system-monitor", "gtk-common-themes"
+Feb  2 13:13:00 nickYubuntu snapd[538]: autorefresh.go:397: auto-refresh: all snaps are up-to-date
+Feb  2 13:13:03 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.13' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:03 nickYubuntu systemd[701]: Starting sandboxed app permission store...
+Feb  2 13:13:03 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+Feb  2 13:13:03 nickYubuntu systemd[701]: Started sandboxed app permission store.
+Feb  2 13:13:04 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating service name='org.freedesktop.portal.IBus' requested by ':1.15' (uid=1000 pid=926 comm="ibus-daemon --xim --panel disable " label="kernel")
+Feb  2 13:13:04 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.freedesktop.portal.IBus'
+Feb  2 13:13:04 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating service name='org.gnome.Shell.CalendarServer' requested by ':1.13' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:05 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.20' (uid=1000 pid=949 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server " label="kernel")
+Feb  2 13:13:05 nickYubuntu systemd[701]: Starting Evolution source registry...
+Feb  2 13:13:05 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.31' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:05 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.bolt' unit='bolt.service' requested by ':1.31' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:05 nickYubuntu systemd[1]: Starting Thunderbolt system service...
+Feb  2 13:13:05 nickYubuntu gnome-shell[896]: Telepathy is not available, chat integration will be disabled.
+Feb  2 13:13:05 nickYubuntu systemd[1]: Starting Location Lookup Service...
+Feb  2 13:13:05 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Feb  2 13:13:05 nickYubuntu systemd[1]: Started Location Lookup Service.
+Feb  2 13:13:05 nickYubuntu boltd[956]: bolt 0.5 starting up.
+Feb  2 13:13:05 nickYubuntu boltd[956]: config: loading user config
+Feb  2 13:13:05 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.13' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:05 nickYubuntu boltd[956]: bouncer: initializing polkit
+Feb  2 13:13:05 nickYubuntu boltd[956]: udev: initializing udev
+Feb  2 13:13:05 nickYubuntu boltd[956]: store: loading devices
+Feb  2 13:13:05 nickYubuntu boltd[956]: power: force power support: no
+Feb  2 13:13:05 nickYubuntu boltd[956]: udev: enumerating devices
+Feb  2 13:13:05 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.bolt'
+Feb  2 13:13:05 nickYubuntu systemd[1]: Started Thunderbolt system service.
+Feb  2 13:13:05 nickYubuntu systemd[701]: Starting Virtual filesystem service - disk device monitor...
+Feb  2 13:13:05 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Feb  2 13:13:05 nickYubuntu systemd[701]: Started Virtual filesystem service - disk device monitor.
+Feb  2 13:13:05 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.13' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:05 nickYubuntu systemd[701]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+Feb  2 13:13:05 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating service name='org.gnome.OnlineAccounts' requested by ':1.21' (uid=1000 pid=955 comm="/usr/lib/evolution/evolution-source-registry " label="kernel")
+Feb  2 13:13:06 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+Feb  2 13:13:06 nickYubuntu systemd[701]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+Feb  2 13:13:06 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.13' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:06 nickYubuntu systemd[701]: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+Feb  2 13:13:06 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+Feb  2 13:13:06 nickYubuntu systemd[701]: Started Evolution source registry.
+Feb  2 13:13:06 nickYubuntu NetworkManager[528]: <info>  [1580667186.5882] manager: NetworkManager state is now CONNECTED_GLOBAL
+Feb  2 13:13:06 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.14' (uid=0 pid=528 comm="/usr/sbin/NetworkManager --no-daemon " label="kernel")
+Feb  2 13:13:06 nickYubuntu systemd[1]: Starting Network Manager Script Dispatcher Service...
+Feb  2 13:13:06 nickYubuntu whoopsie[655]: [13:13:06] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/1
+Feb  2 13:13:06 nickYubuntu whoopsie[655]: [13:13:06] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+Feb  2 13:13:06 nickYubuntu whoopsie[655]: [13:13:06] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+Feb  2 13:13:06 nickYubuntu whoopsie[655]: [13:13:06] online
+Feb  2 13:13:06 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Feb  2 13:13:06 nickYubuntu systemd[1]: Started Network Manager Script Dispatcher Service.
+Feb  2 13:13:06 nickYubuntu nm-dispatcher: req:1 'connectivity-change': new request (1 scripts)
+Feb  2 13:13:06 nickYubuntu nm-dispatcher: req:1 'connectivity-change': start running ordered scripts...
+Feb  2 13:13:06 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.Shell.CalendarServer'
+Feb  2 13:13:07 nickYubuntu goa-daemon[975]: goa-daemon version 3.28.0 starting
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating service name='org.gnome.Identity' requested by ':1.25' (uid=1000 pid=975 comm="/usr/lib/gnome-online-accounts/goa-daemon " label="kernel")
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.OnlineAccounts'
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+Feb  2 13:13:07 nickYubuntu systemd[701]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.13' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.Identity'
+Feb  2 13:13:07 nickYubuntu systemd[701]: Starting Virtual filesystem service - Apple File Conduit monitor...
+Feb  2 13:13:07 nickYubuntu gvfs-afc-volume-monitor[1001]: Volume monitor alive
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+Feb  2 13:13:07 nickYubuntu systemd[701]: Started Virtual filesystem service - Apple File Conduit monitor.
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.13' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:07 nickYubuntu systemd[701]: Starting Virtual filesystem service - digital camera monitor...
+Feb  2 13:13:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+Feb  2 13:13:07 nickYubuntu systemd[701]: Started Virtual filesystem service - digital camera monitor.
+Feb  2 13:13:07 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.31' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:07 nickYubuntu systemd[1]: Starting PackageKit Daemon...
+Feb  2 13:13:08 nickYubuntu PackageKit: daemon start
+Feb  2 13:13:08 nickYubuntu gnome-shell[896]: JS WARNING: [/usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com/appIcons.js 1028]: unreachable code after return statement
+Feb  2 13:13:08 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gnome.evolution.dataserver.Calendar7' unit='evolution-calendar-factory.service' requested by ':1.20' (uid=1000 pid=949 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server " label="kernel")
+Feb  2 13:13:08 nickYubuntu spice-vdagent[1027]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+Feb  2 13:13:08 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Feb  2 13:13:08 nickYubuntu systemd[1]: Started PackageKit Daemon.
+Feb  2 13:13:08 nickYubuntu systemd[701]: Starting Evolution calendar service...
+Feb  2 13:13:09 nickYubuntu gnome-session[760]: gnome-session-binary[760]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Feb  2 13:13:10 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.46' (uid=1000 pid=1014 comm="/usr/lib/gnome-settings-daemon/gsd-rfkill " label="kernel")
+Feb  2 13:13:10 nickYubuntu systemd[1]: Starting Hostname Service...
+Feb  2 13:13:10 nickYubuntu gnome-session-binary[760]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Feb  2 13:13:10 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Feb  2 13:13:10 nickYubuntu systemd[1]: Started Hostname Service.
+Feb  2 13:13:10 nickYubuntu kernel: [   70.423283] rfkill: input handler disabled
+Feb  2 13:13:10 nickYubuntu gsd-sharing[1020]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-user-share-webdav.service not loaded.
+Feb  2 13:13:10 nickYubuntu gsd-sharing[1020]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit rygel.service not loaded.
+Feb  2 13:13:10 nickYubuntu gsd-sharing[1020]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-remote-desktop.service not loaded.
+Feb  2 13:13:10 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.53' (uid=1000 pid=1068 comm="/usr/lib/gnome-settings-daemon/gsd-keyboard " label="kernel")
+Feb  2 13:13:10 nickYubuntu systemd[1]: Starting Locale Service...
+Feb  2 13:13:10 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.locale1'
+Feb  2 13:13:10 nickYubuntu systemd[1]: Started Locale Service.
+Feb  2 13:13:10 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.ColorManager' unit='colord.service' requested by ':1.56' (uid=1000 pid=1062 comm="/usr/lib/gnome-settings-daemon/gsd-color " label="kernel")
+Feb  2 13:13:10 nickYubuntu systemd[1]: Starting Manage, Install and Generate Color Profiles...
+Feb  2 13:13:12 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.evolution.dataserver.Calendar7'
+Feb  2 13:13:12 nickYubuntu systemd[701]: Started Evolution calendar service.
+Feb  2 13:13:12 nickYubuntu colord[1123]: failed to get edid data: EDID length is too small
+Feb  2 13:13:13 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+Feb  2 13:13:13 nickYubuntu gnome-session-binary[760]: Entering running state
+Feb  2 13:13:13 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating service name='ca.desrt.dconf' requested by ':1.49' (uid=1000 pid=1137 comm="/usr/lib/evolution/evolution-calendar-factory-subp" label="kernel")
+Feb  2 13:13:13 nickYubuntu systemd[1]: Started Manage, Install and Generate Color Profiles.
+Feb  2 13:13:13 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gnome.evolution.dataserver.AddressBook9' unit='evolution-addressbook-factory.service' requested by ':1.49' (uid=1000 pid=1137 comm="/usr/lib/evolution/evolution-calendar-factory-subp" label="kernel")
+Feb  2 13:13:13 nickYubuntu systemd[701]: Starting Evolution address book service...
+Feb  2 13:13:13 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'ca.desrt.dconf'
+Feb  2 13:13:14 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.evolution.dataserver.AddressBook9'
+Feb  2 13:13:14 nickYubuntu systemd[701]: Started Evolution address book service.
+Feb  2 13:13:15 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.31' (uid=1000 pid=896 comm="/usr/bin/gnome-shell " label="kernel")
+Feb  2 13:13:15 nickYubuntu systemd[1]: Starting Location Lookup Service...
+Feb  2 13:13:15 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Feb  2 13:13:15 nickYubuntu systemd[1]: Started Location Lookup Service.
+Feb  2 13:13:15 nickYubuntu gnome-shell[896]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Feb  2 13:13:15 nickYubuntu gsd-color[1062]: failed to get edid: unable to get EDID for output
+Feb  2 13:13:15 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating service name='org.freedesktop.FileManager1' requested by ':1.50' (uid=1000 pid=1119 comm="nautilus-desktop " label="kernel")
+Feb  2 13:13:15 nickYubuntu gsd-color[1062]: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Feb  2 13:13:16 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.freedesktop.FileManager1'
+Feb  2 13:13:17 nickYubuntu gnome-shell[896]: GNOME Shell started at Sun Feb 02 2020 13:13:07 GMT-0500 (EST)
+Feb  2 13:13:19 nickYubuntu nautilus-deskto[1119]: Called "net usershare info" but it failed: Failed to execute child process “net” (No such file or directory)
+Feb  2 13:13:19 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.50' (uid=1000 pid=1119 comm="nautilus-desktop " label="kernel")
+Feb  2 13:13:19 nickYubuntu systemd[701]: Starting Virtual filesystem metadata service...
+Feb  2 13:13:19 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gtk.vfs.Metadata'
+Feb  2 13:13:19 nickYubuntu systemd[701]: Started Virtual filesystem metadata service.
+Feb  2 13:13:24 nickYubuntu pulseaudio[913]: [pulseaudio] bluez5-util.c: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Feb  2 13:13:30 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.58' (uid=1000 pid=1250 comm="/usr/bin/gnome-terminal.real " label="kernel")
+Feb  2 13:13:30 nickYubuntu systemd[701]: Starting GNOME Terminal Server...
+Feb  2 13:13:31 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.Terminal'
+Feb  2 13:13:31 nickYubuntu systemd[701]: Started GNOME Terminal Server.
+Feb  2 13:13:47 nickYubuntu snapd[538]: 2020/02/02 13:13:47 Unsolicited response received on idle HTTP channel starting with "HTTP/1.0 408 Request Time-out\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<html><body><h1>408 Request Time-out</h1>\nYour browser didn't send a complete request in time.\n</body></html>\n"; err=<nil>
+Feb  2 13:13:59 nickYubuntu kernel: [  119.265554] This is the very official system test written by nick
+Feb  2 13:13:59 nickYubuntu kernel: [  119.265567] This is the result of the summation: -1571698072
+Feb  2 13:13:59 nickYubuntu kernel: [  119.265570] a: 1093223144
+Feb  2 13:13:59 nickYubuntu kernel: [  119.265571] b: 1630046080
+Feb  2 13:14:14 nickYubuntu gnome-software[1286]: plugin appstream took 2.4 seconds to do setup
+Feb  2 13:14:14 nickYubuntu gnome-software[1286]: enabled plugins: shell-extensions, os-release, systemd-updates, packagekit, packagekit-offline, fwupd, packagekit-url-to-app, ubuntuone, packagekit-refresh, packagekit-upgrade, desktop-categories, packagekit-local, packagekit-refine-repos, packagekit-proxy, appstream, hardcoded-featured, steam, rewrite-resource, hardcoded-blacklist, odrs, desktop-menu-path, packagekit-refine, hardcoded-popular, modalias, generic-updates, packagekit-history, snap, provenance, icons, provenance-license, key-colors, key-colors-metadata
+Feb  2 13:14:14 nickYubuntu gnome-software[1286]: disabled plugins: dpkg, dummy, repos, epiphany
+Feb  2 13:14:14 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.69' (uid=1000 pid=1286 comm="/usr/bin/gnome-software --gapplication-service " label="kernel")
+Feb  2 13:14:14 nickYubuntu systemd[1]: Starting Firmware update daemon...
+Feb  2 13:14:14 nickYubuntu kernel: [  134.732149] This is the very official system test written by nick
+Feb  2 13:14:14 nickYubuntu kernel: [  134.732160] This is the result of the summation: 1649854072
+Feb  2 13:14:14 nickYubuntu kernel: [  134.732162] a: -2004541704
+Feb  2 13:14:14 nickYubuntu kernel: [  134.732163] b: -640571520
+Feb  2 13:14:15 nickYubuntu fwupd[1309]: disabling plugin because: failed to startup dell: Firmware updating not supported
+Feb  2 13:14:15 nickYubuntu fwupd[1309]: disabling plugin because: failed to startup uefi: UEFI firmware updating not supported
+Feb  2 13:14:15 nickYubuntu fwupd[1309]: disabling plugin because: failed to coldplug amt: Unable to find a ME interface
+Feb  2 13:14:15 nickYubuntu fwupd[1309]: disabling plugin because: failed to coldplug synapticsmst: MST firmware updating not supported by OEM
+Feb  2 13:14:15 nickYubuntu fwupd[1309]: disabling plugin because: failed to coldplug thunderbolt_power: No support for force power via kernel or bolt
+Feb  2 13:14:15 nickYubuntu fwupd[1309]: using plugins: udev, nitrokey, altos, unifying, thunderbolt, upower, csr, dfu, steelseries, ebitdo, wacomhid, colorhug
+Feb  2 13:14:15 nickYubuntu fwupd[1309]: Daemon ready for requests
+Feb  2 13:14:16 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.fwupd'
+Feb  2 13:14:16 nickYubuntu systemd[1]: Started Firmware update daemon.
+Feb  2 13:14:21 nickYubuntu PackageKit: get-updates transaction /89_dacecedd from uid 1000 finished with success after 4458ms
+Feb  2 13:14:21 nickYubuntu gnome-software[1286]: Only 0 apps for recent list, hiding
+Feb  2 13:14:23 nickYubuntu PackageKit: resolve transaction /90_abedccdc from uid 1000 finished with success after 1378ms
+Feb  2 13:14:26 nickYubuntu gnome-shell[896]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.61/org/ayatana/NotificationItem/software_update_available
+Feb  2 13:14:26 nickYubuntu gnome-shell[896]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.61/org/ayatana/NotificationItem/livepatch
+Feb  2 13:14:37 nickYubuntu gnome-software[1286]: g_path_get_basename: assertion 'file_name != NULL' failed
+Feb  2 13:14:37 nickYubuntu gnome-software[1286]: g_regex_match_full: assertion 'string != NULL' failed
+Feb  2 13:14:37 nickYubuntu gnome-software[1286]: g_path_get_basename: assertion 'file_name != NULL' failed
+Feb  2 13:14:37 nickYubuntu gnome-software[1286]: g_regex_match_full: assertion 'string != NULL' failed
+Feb  2 13:14:46 nickYubuntu PackageKit: search-file transaction /91_bbbeedbd from uid 1000 finished with success after 23095ms
+Feb  2 13:14:47 nickYubuntu PackageKit: resolve transaction /92_aebdcdcc from uid 1000 finished with success after 727ms
+Feb  2 13:14:47 nickYubuntu gnome-software[1286]: hiding category graphics featured applications: found only 1 to show, need at least 9
+Feb  2 13:14:48 nickYubuntu PackageKit: search-file transaction /93_abcbcebb from uid 1000 finished with success after 787ms
+Feb  2 13:14:48 nickYubuntu PackageKit: search-file transaction /94_beeaadcb from uid 1000 finished with success after 790ms
+Feb  2 13:14:49 nickYubuntu PackageKit: search-file transaction /95_cadeabee from uid 1000 finished with success after 786ms
+Feb  2 13:14:50 nickYubuntu PackageKit: search-file transaction /96_acadbdcd from uid 1000 finished with success after 762ms
+Feb  2 13:14:51 nickYubuntu PackageKit: search-file transaction /97_bccdbabd from uid 1000 finished with success after 752ms
+Feb  2 13:14:52 nickYubuntu PackageKit: search-file transaction /98_bccececd from uid 1000 finished with success after 763ms
+Feb  2 13:14:52 nickYubuntu PackageKit: search-file transaction /99_beeaebea from uid 1000 finished with success after 800ms
+Feb  2 13:14:53 nickYubuntu PackageKit: get-details transaction /100_dddbbdeb from uid 1000 finished with success after 852ms
+Feb  2 13:14:53 nickYubuntu gnome-software[1286]: Failed to load snap icon: local snap has no icon
+Feb  2 13:14:54 nickYubuntu gnome-software[1286]: message repeated 4 times: [ Failed to load snap icon: local snap has no icon]
+Feb  2 13:15:25 nickYubuntu org.gnome.Shell.desktop[896]: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2400084 (*test.c (~)
+Feb  2 13:15:26 nickYubuntu snapd[538]: 2020/02/02 13:15:26 Unsolicited response received on idle HTTP channel starting with "HTTP/1.0 408 Request Time-out\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<html><body><h1>408 Request Time-out</h1>\nYour browser didn't send a complete request in time.\n</body></html>\n"; err=<nil>
+Feb  2 13:15:34 nickYubuntu gsd-color[1062]: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Feb  2 13:15:57 nickYubuntu kernel: [  237.778066] This is the very official system test written by nick
+Feb  2 13:15:57 nickYubuntu kernel: [  237.778075] This is the result of the summation: 4
+Feb  2 13:15:57 nickYubuntu kernel: [  237.778077] a: 1
+Feb  2 13:15:57 nickYubuntu kernel: [  237.778078] b: 3
+Feb  2 13:16:49 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating service name='org.freedesktop.FileManager1' requested by ':1.50' (uid=1000 pid=1119 comm="nautilus-desktop " label="kernel")
+Feb  2 13:16:49 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.freedesktop.FileManager1'
+Feb  2 13:16:50 nickYubuntu dbus-daemon[351]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.77' (uid=1000 pid=1429 comm="/usr/bin/nautilus --gapplication-service " label="kernel")
+Feb  2 13:16:50 nickYubuntu systemd[1]: Starting Hostname Service...
+Feb  2 13:16:50 nickYubuntu dbus-daemon[351]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Feb  2 13:16:50 nickYubuntu systemd[1]: Started Hostname Service.
+Feb  2 13:16:58 nickYubuntu nautilus[1429]: Called "net usershare info" but it failed: Failed to execute child process “net” (No such file or directory)
+Feb  2 13:17:01 nickYubuntu CRON[1440]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  2 13:17:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gnome.zeitgeist.Engine' unit='zeitgeist.service' requested by ':1.65' (uid=1000 pid=1429 comm="/usr/bin/nautilus --gapplication-service " label="kernel")
+Feb  2 13:17:07 nickYubuntu systemd[701]: Starting Zeitgeist activity log service...
+Feb  2 13:17:07 nickYubuntu zeitgeist-maybe-vacuum[1443]: Performing VACUUM operation... OK
+Feb  2 13:17:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gnome.zeitgeist.SimpleIndexer' unit='zeitgeist-fts.service' requested by ':1.66' (uid=1000 pid=1448 comm="/usr/bin/zeitgeist-daemon " label="kernel")
+Feb  2 13:17:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.zeitgeist.Engine'
+Feb  2 13:17:07 nickYubuntu zeitgeist-daemon[1448]: #033[31m[18:17:07.540619 WARNING]#033[0m zeitgeist-daemon.vala:334: Failed to execute child process “zeitgeist-datahub” (No such file or directory)
+Feb  2 13:17:07 nickYubuntu zeitgeist-daemon[1448]: #033[31m[18:17:07.541452 WARNING]#033[0m zeitgeist-daemon.vala:127: Unable to parse version info!
+Feb  2 13:17:07 nickYubuntu zeitgeist-daemon[1448]: #033[31m[18:17:07.541684 WARNING]#033[0m zeitgeist-daemon.vala:127: Unable to parse version info!
+Feb  2 13:17:07 nickYubuntu systemd[701]: Started Zeitgeist activity log service.
+Feb  2 13:17:07 nickYubuntu systemd[701]: Starting Zeitgeist full-text search indexer...
+Feb  2 13:17:07 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+Feb  2 13:17:07 nickYubuntu systemd[701]: Started Zeitgeist full-text search indexer.
+Feb  2 13:17:20 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.68' (uid=1000 pid=1468 comm="/usr/bin/gnome-terminal.real " label="kernel")
+Feb  2 13:17:20 nickYubuntu systemd[701]: Starting GNOME Terminal Server...
+Feb  2 13:17:21 nickYubuntu dbus-daemon[756]: [session uid=1000 pid=756] Successfully activated service 'org.gnome.Terminal'
+Feb  2 13:17:21 nickYubuntu systemd[701]: Started GNOME Terminal Server.
